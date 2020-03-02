@@ -1,13 +1,13 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
+			<name>تابعني ع تويتر</name>
 			<url>https://twitter.com/5boosh</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/username</url>
+			<name>اضغط هنا لأضافة السورس</name>
+			<url>https://5boosh.github.io/repo/</url>
 			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 	</footerlinks>
