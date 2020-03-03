@@ -1,16 +1,13 @@
-
 Package: com.yourepo.mohadu31.bfdecrypt
 Version: 1.3.1
 Architecture: iphoneos-arm
-Maintainer: Mohadu313
+Maintainer: 5boosh
 Depends: firmware(>=11.0), preferenceloader, applist
 Filename: ./debs/com.yourepo.mohadu31.bfdecrypt_1.3.1_iphoneos-arm.deb
 Size: 83360
 MD5sum: e0c89f9ecea788fd12adffc044315d24
 SHA1: 3ad979027b333320581d71b9b5e2150dc070ba05
 SHA256: 1e4a78a1b2235604cf8b1d341288bfd5e89f4b0227229692a62be7682b1adcb2
-Section: iOS12
-Description: bfdecrypt for iOS 11 to 12.1.2
 Author: 5boosh
 Depiction: https://5boosh.github.io/repo/depictions/?p=com.yourepo.mohadu31.bfdecrypt
 Name: bfdecrypt
