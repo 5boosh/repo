@@ -11,7 +11,6 @@ SHA256: 1d36acc67cad7aff0dc43d3743baad0091062d5a7c91f9b4a94554941cd02f6f
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Shiar Ahmed
-Depiction: https://shiarahmed.github.io/test/depictions/?p=test
 Installed-Size: 84
 Name: Snapchat
 SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
@@ -29,5 +28,4 @@ MD5sum: e0c89f9ecea788fd12adffc044315d24
 SHA1: 3ad979027b333320581d71b9b5e2150dc070ba05
 SHA256: 1e4a78a1b2235604cf8b1d341288bfd5e89f4b0227229692a62be7682b1adcb2
 Section: Tweaks
-Depiction: https://shiarahmed.github.io/test/depictions/?p=test
 Name: bfdecrypt
