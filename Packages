@@ -1,20 +1,27 @@
-
 Package: com.ichitaso.powerselector11
 Version: 1.2.6
 Architecture: iphoneos-arm
-Maintainer: 5boosh
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
 Filename: ./debs/com.ichitaso.powerselector11_1.2.6_iphoneos-arm.deb
 Size: 204154
 MD5sum: c00cc4066ef34eb5e3171025d98e9ca1
 SHA1: 8407b8619d3af49b34ee6b7b110ba626d8f62164
 SHA256: 0871d3222d1922530490e35c0085ca5d94a47837a952875ecaff543827337cde
-Section: iOS13
-Author: 5boosh
-Depiction: https://5boosh.github.io/kmfifi/
+Section: Utilities
+Description: The power supply relation of a device is operated.
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Installed-Size: 1860
 Name: PowerSelector (iOS 11 to 13)
-
-
+Pre-Depends: firmware (>= 11.0)
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+dev: ichitaso
 
 Package: com.yourepo.mohadu31.bfdecrypt
 Version: 1.3.1
@@ -27,7 +34,30 @@ MD5sum: e0c89f9ecea788fd12adffc044315d24
 SHA1: 3ad979027b333320581d71b9b5e2150dc070ba05
 SHA256: 1e4a78a1b2235604cf8b1d341288bfd5e89f4b0227229692a62be7682b1adcb2
 Section: iOS12
-Description: bfdecrypt for iOS 11 to 13.3
-Author: 5boosh
-Depiction: https://5boosh.github.io/kmfifi/
+Description: bfdecrypt for iOS 11 to 12.1.2
+Author: level3tjg
+Depiction: https://mohadu31.com/pack/bfdecrypt
 Name: bfdecrypt
+
+Package: bz.jed.tweakcompatible
+Version: 0.1.5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/tweakcompatible_0.1.5.deb
+Size: 54016
+MD5sum: 0a90d6021ba05aa5f67c60274c8d69b7
+SHA1: de79c31d1d26788d60e4a1e473e3153d2933f5d3
+SHA256: d10cb06e4da3281ed89906ac84656996b98f52c98c743a22f303fcdad3297b7e
+Section: Tweaks
+Description: Adds a way to check tweak compatibility in cydia
+Author: treAson <treasonftg@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tweakcompatibleDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tweakcompatibleDp
+Icon: file:///Library/PreferenceBundles/tweakCompatible_prefs.bundle/icon@2x.png
+Installed-Size: 292
+Name: tweakCompatible
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: jed
+
