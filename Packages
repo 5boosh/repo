@@ -1,7 +1,7 @@
 Package: com.ichitaso.powerselector11
 Version: 1.2.6
 Architecture: iphoneos-arm
-Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Maintainer: 5boosh
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Filename: ./debs/com.ichitaso.powerselector11_1.2.6_iphoneos-arm.deb
 Size: 204154
@@ -9,10 +9,6 @@ MD5sum: c00cc4066ef34eb5e3171025d98e9ca1
 SHA1: 8407b8619d3af49b34ee6b7b110ba626d8f62164
 SHA256: 0871d3222d1922530490e35c0085ca5d94a47837a952875ecaff543827337cde
 Section: iOS13
-Description: The power supply relation of a device is operated.
-Author: ichitaso <willfeeltips+ps11@gmail.com>
-Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
-Installed-Size: 1860
 Name: PowerSelector (iOS 11 to 13)
 
 
