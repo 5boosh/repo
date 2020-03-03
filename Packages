@@ -35,6 +35,7 @@ SHA1: 3ad979027b333320581d71b9b5e2150dc070ba05
 SHA256: 1e4a78a1b2235604cf8b1d341288bfd5e89f4b0227229692a62be7682b1adcb2
 Section: iOS12
 Description: bfdecrypt for iOS 11 to 12.1.2
+Depiction: https://shiarahmed.github.io/test/depictions/test/?p=com.yourepo.mohadu31.bfdecrypt
 Author: level3tjg
 Depiction: https://mohadu31.com/pack/bfdecrypt
 Name: bfdecrypt
