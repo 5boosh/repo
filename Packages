@@ -12,7 +12,6 @@ Section: iOS13
 Description: The power supply relation of a device is operated.
 Author: ichitaso <willfeeltips+ps11@gmail.com>
 Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
-Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
 Installed-Size: 1860
 Name: PowerSelector (iOS 11 to 13)
 
@@ -30,6 +29,6 @@ SHA1: 3ad979027b333320581d71b9b5e2150dc070ba05
 SHA256: 1e4a78a1b2235604cf8b1d341288bfd5e89f4b0227229692a62be7682b1adcb2
 Section: iOS12
 Description: bfdecrypt for iOS 11 to 13.3
-Author: level3tjg
-Depiction: https://mohadu31.com/pack/bfdecrypt
+Author: 5boosh
+Depiction: https://5boosh.github.io/kmfifi/
 Name: bfdecrypt
