@@ -1,0 +1,27 @@
+<package>
+	<id>com.spark.batterypercentx</id>
+	<name>batterypercentx</name>
+	<version>1.4.1-33</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>batterypercentx tweak</shortDescription>
+	<descriptionlist>
+		<description>batterypercentx test</description>
+		<description>Supports iOS 10.0 - 13.0</description>
+	</descriptionlist>
+	<screenshots>
+  <screenshot>Cydia.png</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
