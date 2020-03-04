@@ -23,7 +23,7 @@ Size: 20415
 MD5sum: c00cc4066ef34eb5e3171025d98e9ca1
 SHA1: 8407b8619d3af49b34ee6b7b110ba626d8f62164
 SHA256: 0871d3222d1922530490e35c0085ca5d94a47837a952875ecaff543827337cde
-Section: Tweaks
+Section: Utilities
 Depiction: https://5boosh.github.io/repo/depictions/?p=com.ichitaso.powerselector11
 Author: 5boosh
 Name: PowerSelector (iOS 11 to 13)
