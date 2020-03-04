@@ -4,8 +4,8 @@
 	<version>1.3.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
-			<maxiOS>13.3</maxiOS>
+			<miniOS>10.0</miniOS>
+			<maxiOS>12.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -15,7 +15,7 @@
 	<shortDescription>Snapchat tweak</shortDescription>
 	<descriptionlist>
 		<description>Snapchat test</description>
-		<description>Supports iOS 10.0 - 13.0</description>
+		<description>Supports iOS 10.0 - 12.0</description>
 	</descriptionlist>
 	<screenshots>
   <screenshot>Cydia.png</screenshot>
