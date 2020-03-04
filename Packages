@@ -13,21 +13,6 @@ Section: Tweaks
 Depiction: https://5boosh.github.io/repo/depictions/?p=com.yourepo.mohadu31.bfdecrypt
 Name: bfdecrypt
 
-Package: com.ichitaso.powerselector11
-Version: 1.2.6
-Architecture: iphoneos-arm
-Maintainer: 5boosh
-Depends: firmware(>=11.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Filename: ./debs/com.ichitaso.powerselector11_1.2.6_iphoneos-arm.deb
-Size: 20415
-MD5sum: c00cc4066ef34eb5e3171025d98e9ca1
-SHA1: 8407b8619d3af49b34ee6b7b110ba626d8f62164
-SHA256: 0871d3222d1922530490e35c0085ca5d94a47837a952875ecaff543827337cde
-Section: Utilities
-Depiction: https://5boosh.github.io/repo/depictions/?p=com.ichitaso.powerselector11
-Author: 5boosh
-Name: PowerSelector (iOS 11 to 13)
-
 Package: bz.jed.tweakcompailable
 Version: 1.2.6
 Architecture: iphoneos-arm
@@ -42,3 +27,18 @@ Author: 5boosh
 Section: Utilities
 Depiction: https://5boosh.github.io/repo/depictions/?p=tweakcompatible_0.1.5.deb
 Name: tweakcompailable
+
+Package: com.spark.batterypercentx
+Version: 1.4.1-33
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: firmware(>=11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/1.4.1-33.deb
+Size: 14661
+MD5sum: 8a6d91f8ddda678a7b2ff6caa2ab05be
+SHA1: c8d263c42aa37adf98a3a46cc1b32868d85e77f7
+SHA256: bba9bca7ade815a2ee733f07808f6310ef02db5dd8176800d045c7bfccec12da
+Author: 5boosh
+Section: Tweaks
+Depiction: https://5boosh.github.io/repo/depictions/?p=1.4.1-33.deb
+Name: batterypercentx
