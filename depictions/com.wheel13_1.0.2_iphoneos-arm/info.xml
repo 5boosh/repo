@@ -1,0 +1,27 @@
+<package>
+	<id>com.Wheel13</id>
+	<name>Wheel 13</name>
+	<version>1.1.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Snapchat tweak</shortDescription>
+	<descriptionlist>
+		<description>Snapchat test</description>
+		<description>Supports iOS 12.0 - 13.0</description>
+	</descriptionlist>
+	<screenshots>
+  <screenshot>Cydia.png</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

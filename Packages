@@ -42,3 +42,18 @@ Author: 5boosh
 Section: Tweaks
 Depiction: https://5boosh.github.io/repo/depictions/?p=1.4.1-33.deb
 Name: batterypercentx
+
+Package: com.Wheel13
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: firmware(>=11.0),
+Filename: ./debs/com.wheel13_1.0.2_iphoneos-arm.deb
+Size: 6652
+MD5sum: 97e01d8f1617787c6d5bd2bb069e2c09
+SHA1: feb98123ea29673a764f6e6accabe64a15f5d354
+SHA256: 0EAA4EA617E5BC5473B9B2BA4B78769BB8915ED4D4171114CCDF1D0203C9426E
+Author: 5boosh
+Section: Themes
+Depiction: https://5boosh.github.io/repo/depictions/?p=com.wheel13_1.0.2_iphoneos-arm
+Name: Wheel 13
