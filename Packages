@@ -17,7 +17,7 @@ Package: com.ichitaso.powerselector11
 Version: 1.2.6
 Architecture: iphoneos-arm
 Maintainer: 5boosh
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Depends: firmware(>=11.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Filename: ./debs/com.ichitaso.powerselector11_1.2.6_iphoneos-arm.deb
 Size: 20415
 MD5sum: c00cc4066ef34eb5e3171025d98e9ca1
@@ -27,3 +27,18 @@ Section: Utilities
 Depiction: https://5boosh.github.io/repo/depictions/?p=com.ichitaso.powerselector11
 Author: 5boosh
 Name: PowerSelector (iOS 11 to 13)
+
+Package: bz.jed.tweakcompailable
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: firmware(>=11.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: ./debs/tweakcompatible_0.1.5.deb
+Size: 54016
+MD5sum: 0a90d6021ba05aa5f67c60274c8d69b7
+SHA1: de79c31d1d26788d60e4a1e473e3153d2933f5d3
+SHA256: d10cb06e4da3281ed89906ac84656996b98f52c98c743a22f303fcdad3297b7e
+Author: 5boosh
+Section: Utilities
+Depiction: https://5boosh.github.io/repo/depictions/?p=tweakcompatible_0.1.5.deb
+Name: tweakcompailable
