@@ -17,11 +17,13 @@
 		<description>Snapchat test</description>
 		<description>Supports iOS 10.0 - 12.0</description>
 	</descriptionlist>
-	<screenshots>: {
+	<screenshots>
+  <screenshot>: {
     "LS3.png": ""
   },
   "links": {}
 }
+</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Initial release</change>
