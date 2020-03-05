@@ -48,13 +48,13 @@ Version: 1.0.33~Beta2
 Architecture: iphoneos-arm
 Maintainer: 5boosh
 Depends: firmware(>=11.0), mobilesubstrate, com.spark.snowboard (>= 1.2.0)
-Filename: ./debs/com.yourepo.mohadu31.bfdecrypt_1.3.1_iphoneos-arm.deb
+Filename: ./debs/1.0.33_Beta2.deb
 Size: 6307
 MD5sum: 5930c1457d918cdac9c4d8fbdfbc3955
 SHA1: 7bdae54bff1057bfc2e5e20a48efc30dd27e15b0
 SHA256: 87ab9fc9fcfd1a3d91d98429ac84379659a55cf8ad757e1f44382ead8b14e74c
 Author: 5boosh
-Section: SnowBoard 
+Section: SnowBoard
 Icon: https://5boosh.github.io/repo/depictions/SnowBoard/Combo.png
 Depiction: https://5boosh.github.io/repo/depictions/?p=snowboard
 Name: SnowBoard
