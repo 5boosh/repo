@@ -1,6 +1,6 @@
 <package>
 	<id>com.spark.batterypercentx</id>
-	<name>BatteryPercentX</name>
+	<name>batterypercentx</name>
 	<version>1.4.1-33</version>
 	<compatibility>
 		<firmware>
