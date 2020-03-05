@@ -17,9 +17,7 @@
 		<description>Snapchat test</description>
 		<description>Supports iOS 10.0 - 12.0</description>
 	</descriptionlist>
-	<screenshots>
-  <screenshot>LS3.png</screenshot>
-	</screenshots>
+	<screenshots>LS3.png</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
