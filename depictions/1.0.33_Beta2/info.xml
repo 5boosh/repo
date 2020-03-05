@@ -12,9 +12,9 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>batterypercentx tweak</shortDescription>
+	<shortDescription>snowboard tweak</shortDescription>
 	<descriptionlist>
-		<description>batterypercentx test</description>
+		<description>snowboard test</description>
 		<description>Supports iOS 10.0 - 13.0</description>
 	</descriptionlist>
 	<screenshots>
