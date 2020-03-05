@@ -43,21 +43,6 @@ Section: Tweaks
 Depiction: https://5boosh.github.io/repo/depictions/?p=1.4.1-33.deb
 Name: batterypercentx
 
-Package: com.Wheel13
-Version: 1.1.4
-Architecture: iphoneos-arm
-Maintainer: 5boosh
-Depends: firmware(>=11.0),
-Filename: ./debs/com.wheel13_1.0.2_iphoneos-arm.deb
-Size: 6652
-MD5sum: 97e01d8f1617787c6d5bd2bb069e2c09
-SHA1: feb98123ea29673a764f6e6accabe64a15f5d354
-SHA256: 0EAA4EA617E5BC5473B9B2BA4B78769BB8915ED4D4171114CCDF1D0203C9426E
-Author: 5boosh
-Section: Themes
-Depiction: https://5boosh.github.io/repo/depictions/?p=com.wheel13_1.0.2_iphoneos-arm
-Name: Wheel 13
-
 Package: com.spark.snowboard.effects
 Version: 1.0.33~Beta2
 Architecture: iphoneos-arm
@@ -69,7 +54,6 @@ MD5sum: 5930c1457d918cdac9c4d8fbdfbc3955
 SHA1: 7bdae54bff1057bfc2e5e20a48efc30dd27e15b0
 SHA256: 87ab9fc9fcfd1a3d91d98429ac84379659a55cf8ad757e1f44382ead8b14e74c
 Author: 5boosh
-Icon: https://5boosh.github.io/repo/depictions/1.0.33_Beta2/Snowboard-Icon.jpg
 Section: SnowBoard Extensions
 Depiction: https://5boosh.github.io/repo/depictions/?p=1.0.33_Beta2
 Name: snowboard
