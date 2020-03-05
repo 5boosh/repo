@@ -9,9 +9,6 @@
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
 	<shortDescription>snowboard tweak</shortDescription>
 	<descriptionlist>
 		<description>snowboard test</description>

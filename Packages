@@ -40,8 +40,8 @@ SHA1: c8d263c42aa37adf98a3a46cc1b32868d85e77f7
 SHA256: bba9bca7ade815a2ee733f07808f6310ef02db5dd8176800d045c7bfccec12da
 Author: 5boosh
 Section: Tweaks
-Depiction: https://5boosh.github.io/repo/depictions/?p=batterypercentx
-Name: batterypercentx
+Depiction: https://5boosh.github.io/repo/depictions/?p=BatteryPercentX
+Name: BatteryPercentX
 
 Package: com.spark.snowboard.effects
 Version: 1.0.33~Beta2
@@ -54,7 +54,7 @@ MD5sum: 5930c1457d918cdac9c4d8fbdfbc3955
 SHA1: 7bdae54bff1057bfc2e5e20a48efc30dd27e15b0
 SHA256: 87ab9fc9fcfd1a3d91d98429ac84379659a55cf8ad757e1f44382ead8b14e74c
 Author: 5boosh
-Section: SnowBoard Extensions
+Section: SnowBoard 
 Icon: https://5boosh.github.io/repo/depictions/SnowBoard/Combo.png
 Depiction: https://5boosh.github.io/repo/depictions/?p=snowboard
 Name: SnowBoard
