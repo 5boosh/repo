@@ -9,12 +9,9 @@
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
-	<shortDescription>Snapchat tweak</shortDescription>
+	<shortDescription>bfdecrypt</shortDescription>
 	<descriptionlist>
-		<description>Snapchat test</description>
+		<description>IPA أداة استخراج و تحويل تطبيقاتك المثبته على جهازك الى صيغة</description>
 		<description>Supports iOS 10.0 - 12.0</description>
 	</descriptionlist>
 	<screenshots>
