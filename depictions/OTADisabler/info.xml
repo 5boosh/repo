@@ -1,6 +1,6 @@
 <package>
 	<id>com.ichitaso.otadisabler</id>
-	<name>OTADisabler</name>
+	<name>otadisabler</name>
 	<version>0.1-7</version>
 	<compatibility>
 		<firmware>
@@ -9,7 +9,7 @@
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
-	<shortDescription>OTADisabler</shortDescription>
+	<shortDescription>otadisabler tweak</shortDescription>
 	<descriptionlist>
 		<description>أداة ايقاف التحديث</description>
 		<description>Supports iOS 9.0 - 13.0</description>
