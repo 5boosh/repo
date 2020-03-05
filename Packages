@@ -43,12 +43,12 @@ Section: Tweaks
 Depiction: https://5boosh.github.io/repo/depictions/?p=BatteryPercentX
 Name: BatteryPercentX
 
-Package: com.spark.snowboard.effects
+Package: com.5boosh.snowboard.effects
 Version: 1.0.33~Beta2
 Architecture: iphoneos-arm
 Maintainer: 5boosh
 Depends: firmware(>=11.0), mobilesubstrate, com.spark.snowboard (>= 1.2.0)
-Filename: ./debs/1.0.33_Beta2.deb
+Filename: ./debs/com.5boosh.snowboard.effects.deb
 Size: 6307
 MD5sum: 5930c1457d918cdac9c4d8fbdfbc3955
 SHA1: 7bdae54bff1057bfc2e5e20a48efc30dd27e15b0
