@@ -1,0 +1,24 @@
+<package>
+	<id>ca.infiniteoptions</id>
+	<name>infiniteoptions</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription>infiniteoptions tweak</shortDescription>
+	<descriptionlist>
+		<description>5boosh</description>
+		<description>Supports iOS 10.0 - 13.3</description>
+	</descriptionlist>
+	<screenshots>
+	<screenshot>cydia.png</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
