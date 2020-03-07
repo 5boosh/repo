@@ -79,7 +79,7 @@ Architecture: iphoneos-arm
 Maintainer: 5boosh
 Depends: firmware (>= 10.0), wget, apt | apt7
 Filename: ./debs/ca.infiniteoptions_1.0_iphoneos-arm.deb
-Size: 16390046
+Size: 1303
 MD5sum: 510c9ad63d11f3c8e13fd90f92762a66
 SHA1: d348f90148d56ec2d26cd3f7233e33b64f446e46
 SHA256: d4a33c4df49f679dadcb0b2be5f1cb83c5ee399e27c5c7f9e75e1b7caf5441b9
