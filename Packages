@@ -58,17 +58,17 @@ Section: System
 Depiction: https://5boosh.github.io/repo/depictions/?p=OTADisabler
 Name: OTADisabler
 
-Package: ca.infiniteoptions
-Version: 1.0
+Package: kr.xsf1re.flyjb
+Version: 0.2.3
 Architecture: iphoneos-arm
 Maintainer: 5boosh
-Depends: firmware (>= 10.0), wget, apt | apt7
-Filename: .//debs/ca.infiniteoptions_1.0_iphoneos-arm.deb
-Size: 16390046
-MD5sum: 510c9ad63d11f3c8e13fd90f92762a66
-SHA1: d348f90148d56ec2d26cd3f7233e33b64f446e46
-SHA256: d4a33c4df49f679dadcb0b2be5f1cb83c5ee399e27c5c7f9e75e1b7caf5441b9
+Depends: firmware (>= 10.0), mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Filename: .//debs/kr.xsf1re.flyjb_0.2.3_beta2_iphoneos-arm.deb
+Size: 371768
+MD5sum: e8ce84b68afc7cb96138d439857e4fd0
+SHA1: a8fbb1b0f79894e12d7c0af2386fc7b78f6430e6
+SHA256: bc2315e7d4b0501a77eb2c992e2318f85ba69a78e00c205d76a77266aea23f14
 Author: 5boosh
 Section: Tweaks
-Depiction: https://5boosh.github.io/repo/depictions/?p=infiniteoptions
-Name: infiniteoptions
+Depiction: https://5boosh.github.io/repo/depictions/?p=flyjb
+Name: flyjb
