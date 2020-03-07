@@ -43,21 +43,6 @@ Section: Tweaks
 Depiction: https://5boosh.github.io/repo/depictions/?p=BatteryPercentX
 Name: BatteryPercentX
 
-Package: com.opa334.ccsupport
-Version: 0.1-7
-Architecture: iphoneos-arm
-Maintainer: 5boosh
-Depends: firmware(>=11.0), mobilesubstrate, com.spark.snowboard (>= 1.2.0)
-Filename: ./debs/com.ichitaso.otadisabler_0.1-7_iphoneos-arm.deb
-Size: 47668
-MD5sum: b99f031a1749ca2333a181574211c8d9
-SHA1: 533085861ef700c91b306e895d5a03feb0dc93b4
-SHA256: 8baaca8bddef7d8278416f290074c2283b9871d4ec53dc9c85efdd1de80112df
-Author: 5boosh
-Section: SnowBoard
-Depiction: https://5boosh.github.io/repo/depictions/?p=SnowBoard
-Name: SnowBoard
-
 Package: com.ichitaso.otadisabler
 Version: 0.1-7
 Architecture: iphoneos-arm
@@ -78,7 +63,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 5boosh
 Depends: firmware (>= 10.0), wget, apt | apt7
-Filename: ./debs/ca.infiniteoptions_1.0_iphoneos-arm.deb
+Filename: .//debs/ca.infiniteoptions_1.0_iphoneos-arm.deb
 Size: 16390046
 MD5sum: 510c9ad63d11f3c8e13fd90f92762a66
 SHA1: d348f90148d56ec2d26cd3f7233e33b64f446e46
