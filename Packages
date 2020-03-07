@@ -58,7 +58,7 @@ Section: System
 Depiction: https://5boosh.github.io/repo/depictions/?p=OTADisabler
 Name: OTADisabler
 
-Package: kr.xsf1re.flyjb
+Package: km.5boosh.flyjb
 Version: 0.2.3_beta2
 Architecture: iphoneos-arm
 Maintainer: 5boosh
