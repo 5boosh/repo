@@ -11,7 +11,7 @@ SHA256: bba9bca7ade815a2ee733f07808f6310ef02db5dd8176800d045c7bfccec12da
 Section: Tweaks
 Description: Replaces the battery icon with percentage on the iPhone X
 Author: Spark
-Depiction: https://5boosh.github.io/repo/depictions/?p=bfdecrypt
+Depiction: https://5boosh.github.io/repo/depictions/?p=BatteryPercentX
 Installed-Size: 512
 Name: BatteryPercentX [Public]
 
