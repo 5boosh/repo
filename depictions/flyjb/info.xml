@@ -6,10 +6,10 @@
 		<firmware>
 			<miniOS>10.0</miniOS>
 			<maxiOS>13.3</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<otherVersions></otherVersions>
 		</firmware>
 	</compatibility>
-	<shortDescription>flyjb tweak</shortDescription>
+	<shortDescription>ادات اخفاء الجلبريك عن التطبيقات</shortDescription>
 	<descriptionlist>
 		<description>5boosh</description>
 		<description>Supports iOS 10.0 - 13.3</description>
