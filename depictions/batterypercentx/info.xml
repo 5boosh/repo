@@ -1,6 +1,6 @@
 <package>
 	<id>com.spark.batterypercentx</id>
-	<name>batterypercentx</name>
+	<name>BatteryPercentX [Public]</name>
 	<version>1.4.1-33</version>
 	<compatibility>
 		<firmware>
@@ -15,7 +15,7 @@
 		<description>Supports iOS 11.0 - 13.0</description>
 	</descriptionlist>
 	<screenshots>
-  <screenshot>Cydia.png</screenshot>
+  <screenshot>1pp.png</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Initial release</change>
