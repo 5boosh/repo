@@ -1,0 +1,20 @@
+{
+  "name": "bfdecrypt",
+  "package": "com.yourepo.mohadu31.bfdecrypt",
+  "author": "5boosh",
+  "version": "1.3.1",
+  "dependency": "N/A",
+  "minOSVersion": "10.0",
+  "maxOSVersion": "13.3",
+  "otheriOS": "untested",
+  "description": "<div>Apply with Snowboard or iThemer (recommended if you're on iOS13).<br><br>Installed to /Library/Themes<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "changelog": {
+    "1.3.1": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "1pp.png": ""
+  },
+  "links": {}
+}
