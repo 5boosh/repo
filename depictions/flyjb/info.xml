@@ -14,9 +14,7 @@
 		<description>5boosh</description>
 		<description>Supports iOS 10.0 - 13.3</description>
 	</descriptionlist>
-	<screenshots>
-	<image>1pp.png</image>
-	</screenshots>
+	<screenshots>1pp.png</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
