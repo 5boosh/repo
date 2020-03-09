@@ -10,7 +10,6 @@ SHA1: 3ad979027b333320581d71b9b5e2150dc070ba05
 SHA256: 1e4a78a1b2235604cf8b1d341288bfd5e89f4b0227229692a62be7682b1adcb2
 Section: iOS12
 Description: bfdecrypt for iOS 11 to 12.1.2
-Author: level3tjg
 Depiction: https://5boosh.github.io/repo/depictions/?p=bfdecrypt
 Name: bfdecrypt
 
@@ -26,7 +25,6 @@ SHA1: b7364dffb85308bf8eebc4ce997a3c51bfd65706
 SHA256: 52132b95022f07dbed81f08612777676092a9f16be47b475e235b0511bbb7eb3
 Section: Tweaks
 Description: You can HIDE Doing jailbreak your iDevice.
+Depiction: https://5boosh.github.io/repo/depictions/?p=flyjb
 Author: XsF1re
-Icon: https://5boosh.github.io/repo/depictions/?p=flyjb
-Installed-Size: 1060
 Name: FlyJB
