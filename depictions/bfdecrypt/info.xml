@@ -9,7 +9,7 @@
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
-	<shortDescription>bfdecrypt</shortDescription>
+	<shortDescription>IPA أستخراج التطبيقات</shortDescription>
 	<descriptionlist>
 		<description>IPA أداة استخراج و تحويل تطبيقاتك المثبته على جهازك الى صيغة</description>
 		<description>Supports iOS 10.0 - 12.0</description>
