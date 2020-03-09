@@ -1,0 +1,24 @@
+<package>
+	<id>com.yourepo.mohadu31.bfdecrypt</id>
+	<name>bfdecrypt</name>
+	<version>1.3.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>12.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription>bfdecrypt</shortDescription>
+	<descriptionlist>
+		<description>IPA أداة استخراج و تحويل تطبيقاتك المثبته على جهازك الى صيغة</description>
+		<description>Supports iOS 10.0 - 12.0</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>cydia.png</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
