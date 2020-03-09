@@ -9,7 +9,7 @@ MD5sum: e0c89f9ecea788fd12adffc044315d24
 SHA1: 3ad979027b333320581d71b9b5e2150dc070ba05
 SHA256: 1e4a78a1b2235604cf8b1d341288bfd5e89f4b0227229692a62be7682b1adcb2
 Section: iOS12
-Description: IPA أستخراج التطبيقات بصيغة 
+Description: IPA أستخراج التطبيقات بصيغة
 Depiction: https://5boosh.github.io/repo/depictions/?p=test1
 Name: bfdecrypt
 
@@ -24,6 +24,7 @@ MD5sum: 74b39694b3d5dcf41c074668b140fead
 SHA1: b7364dffb85308bf8eebc4ce997a3c51bfd65706
 SHA256: 52132b95022f07dbed81f08612777676092a9f16be47b475e235b0511bbb7eb3
 Section: Tweaks
+Description: أداة أخفاء الجلبريك عن التطبيقات
 Depiction: https://5boosh.github.io/repo/depictions/?p=test2
 Author: XsF1re
 Name: FlyJB
@@ -56,6 +57,7 @@ MD5sum: be2ec8dc2bfdf9598b0931ec99d49184
 SHA1: 845cdcb663c179e1a0081a05f2887dc0ac618767
 SHA256: c7ec62a1ab2baab048f7ae44de312f784f2b6289128d96b9116d0572da28693a
 Section: Tweaks
+Description: أداة نسخ وترجمه فورية
 Depiction: https://5boosh.github.io/repo/depictions/?p=test4
 Author: Nepeta
 Name: Selector
