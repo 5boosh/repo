@@ -1,18 +1,18 @@
 <package>
-	<id>com.yourepo.mohadu31.bfdecrypt</id>
-	<name>bfdecrypt</name>
-	<version>1.3.1</version>
+	<id>me.nepeta.selector</id>
+	<name>Selector</name>
+	<version>0.1.2</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
+			<miniOS>11.0</miniOS>
 			<maxiOS>12.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
-	<shortDescription>IPA أستخراج التطبيقات</shortDescription>
+	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description></description>
-		<description>Supports iOS 10.0 - 12.0</description>
+		<description>5boosh</description>
+		<description>Supports iOS 11.0 - 12.3</description>
 	</descriptionlist>
 	<screenshots>
 	</screenshots>

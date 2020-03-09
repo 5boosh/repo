@@ -40,6 +40,22 @@ MD5sum: d6b97e07e2166fdd11fcb8c3aafa30df
 SHA1: ecef6b7b272f89af8cbc661efe26d07f5cf63d94
 SHA256: b9a703c89b4b53a96e16e284a0dc6b908a28dc3f4420c930e78816afbf27bf2f
 Section: Tweaks
+Description: AppStore يتيح لك تقليل أصدارات التطبيقات من
 Author: CokePokes
 Depiction: https://5boosh.github.io/repo/depictions/?p=test3
 Name: AppStore++
+
+Package: me.nepeta.selector
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: 5boosh Repo
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debs/me.nepeta.selector_0.1.2_iphoneos-arm.deb
+Size: 29154
+MD5sum: be2ec8dc2bfdf9598b0931ec99d49184
+SHA1: 845cdcb663c179e1a0081a05f2887dc0ac618767
+SHA256: c7ec62a1ab2baab048f7ae44de312f784f2b6289128d96b9116d0572da28693a
+Section: Tweaks
+Depiction: https://5boosh.github.io/repo/depictions/?p=test4
+Author: Nepeta
+Name: Selector
