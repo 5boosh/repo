@@ -1,7 +1,7 @@
 <package>
 	<id>kr.xsf1re.flyjb</id>
 	<name>flyjb</name>
-	<version>0.2.3_beta2</version>
+	<version>0.2.3_beta3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -9,7 +9,7 @@
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
-	<shortDescription>flyjb tweak</shortDescription>
+	<shortDescription>أداة أخفاء الجلبريك عن الطبيقات</shortDescription>
 	<descriptionlist>
 		<description>5boosh</description>
 		<description>Supports iOS 10.0 - 13.3</description>
