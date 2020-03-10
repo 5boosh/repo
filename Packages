@@ -61,3 +61,17 @@ Description: أداة نسخ وترجمه فورية
 Depiction: https://5boosh.github.io/repo/depictions/?p=test4
 Author: Nepeta
 Name: Selector
+
+Package: com.bros4x.goldly
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 5boosh Repo
+Filename: ./debs/com.bros4x.goldly_1.1_iphoneos-arm.deb
+Size: 34583364
+MD5sum: 895125aa45f4f40779702e67bd0bccbb
+SHA1: 80c290d08140f52485b82b4584f523514bca95f3
+SHA256: db6fc80d44eca973bbe02c53c3576c585d15a83a40ea26d9a281045dc96f838d
+Section: Theme’s
+Depiction: https://5boosh.github.io/repo/depictions/?p=test5
+Description: ثيم رائع - support iOS 10 . 11 . 12 . 13
+Name: GoldLy
