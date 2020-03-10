@@ -75,3 +75,50 @@ Section: سمات
 Depiction: https://5boosh.github.io/repo/depictions/?p=test5
 Description: ثيم رائع - support iOS 10 . 11 . 12 . 13
 Name: GoldLy
+
+Package: com.antique.blots
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: 5boosh Repo
+Depends: mobilesubstrate
+Filename: ./debs/com.antique.blots_0.0.6.deb
+Size: 28698
+MD5sum: 5e2d44be1f2a43643359360041700181
+SHA1: 9c39e8c17b52b030219b302c56cbc2dc16f3f52c
+SHA256: a3e4438eed524364e448211e53dfee75cdb6197ea0db9d10a45255b010921e4f
+Section: Tweaks
+Depiction: https://5boosh.github.io/repo/depictions/?p=test6
+Description: Notifications always on screen
+Author: Antique
+Name: Blots
+
+Package: com.rpgfarm.a-shields
+Version: 1.1.9
+Architecture: iphoneos-arm
+Maintainer: 5boosh Repo
+Depends: mobilesubstrate
+Filename: ./debs/com.rpgfarm.a-shields.deb
+Size: 32964
+MD5sum: eeb253eaa243f12d8c9e3308f2c0c7e3
+SHA1: dd6f9be63b5bc9086a9ac02fa3d092df24c4c18b
+SHA256: 324d937334f3aca8ff8ed94e1037dc0ed39282f8bb4c30733db7612e8a106789
+Section: Tweaks
+Depiction: https://5boosh.github.io/repo/depictions/?p=test7
+Description: Protect your device
+Author: Baw Appie <pp121324@gmail.com>
+Name: A-Shields
+
+Package: com.tigisoftware.appdatamanager
+Version: 1.5.1-10
+Architecture: iphoneos-arm
+Maintainer: 5boosh Repo
+Filename: ./debs/com.tigisoftware.appdatamanager_1.5.1-10_iphoneos-arm.deb
+Size: 3624416
+MD5sum: 30d531d2bf661de42ae813f9ba4bc3d2
+SHA1: 540aa85145ede037d3c5600a9b1ff0aca21670b8
+SHA256: fef24deb1f6911a8262da9db9ad617f3ab803a9b42db71544296e46edffdd998
+Section: Utilities
+Depiction: https://5boosh.github.io/repo/depictions/?p=test8
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Author: TIGI Software
+Name: Apps Manager

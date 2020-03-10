@@ -1,0 +1,23 @@
+<package>
+	<id>com.tigisoftware.appdatamanager</id>
+	<name>Apps Manager</name>
+	<version>1.5.1-10</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description></description>
+		<description>Supports iOS 10.0 - 13.3</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
