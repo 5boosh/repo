@@ -5,14 +5,14 @@
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-			<maxiOS>12.0</maxiOS>
+			<maxiOS>13.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<shortDescription></shortDescription>
 	<descriptionlist>
 		<description>أداة نسخ وترجمه فورية</description>
-		<description>Supports iOS 11.0 - 12.3</description>
+		<description>Supports iOS 11.0 - 13.3</description>
 	</descriptionlist>
 	<screenshots>
 	</screenshots>
