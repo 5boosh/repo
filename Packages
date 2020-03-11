@@ -13,12 +13,12 @@ Description: IPA أستخراج التطبيقات بصيغة
 Depiction: https://5boosh.github.io/repo/depictions/?p=test1
 Name: bfdecrypt
 
-Package: kr.xsf1re.flyjb
+Package: kr.5boosh.flyjb
 Version: 0.2.3~beta3
 Architecture: iphoneos-arm
 Maintainer: 5boosh Repo
 Depends: firmware(>=11.0), mobilesubstrate, applist, preferenceloader
-Filename: ./debs/kr.xsf1re.flyjb_0.2.3_beta3_iphoneos-arm.deb
+Filename: ./debs/5boosh_0.2.3_beta3_iphoneos-arm.deb
 Size: 366658
 MD5sum: 74b39694b3d5dcf41c074668b140fead
 SHA1: b7364dffb85308bf8eebc4ce997a3c51bfd65706
