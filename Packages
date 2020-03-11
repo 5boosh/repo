@@ -34,7 +34,6 @@ Version: 0.9.8-9
 Architecture: iphoneos-arm
 Maintainer: 5boosh Repo
 Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
 Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
 Size: 1346934
 MD5sum: d6b97e07e2166fdd11fcb8c3aafa30df
@@ -50,7 +49,7 @@ Package: me.nepeta.selector
 Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: 5boosh Repo
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Depends: firmware(>=11.0), mobilesubstrate
 Filename: ./debs/me.nepeta.selector_0.1.2_iphoneos-arm.deb
 Size: 29154
 MD5sum: be2ec8dc2bfdf9598b0931ec99d49184
@@ -66,6 +65,7 @@ Package: com.bros4x.goldly
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 5boosh Repo
+Depends: firmware(>=10.0), mobilesubstrate
 Filename: ./debs/com.bros4x.goldly_1.1_iphoneos-arm.deb
 Size: 34583364
 MD5sum: 895125aa45f4f40779702e67bd0bccbb
@@ -80,7 +80,7 @@ Package: com.antique.blots
 Version: 0.0.6
 Architecture: iphoneos-arm
 Maintainer: 5boosh Repo
-Depends: firmware (>= 11.0), mobilesubstrate
+Depends: firmware(>=11.0), mobilesubstrate
 Filename: ./debs/com.antique.blots_0.0.6.deb
 Size: 28698
 MD5sum: 5e2d44be1f2a43643359360041700181
@@ -112,6 +112,7 @@ Package: com.tigisoftware.appdatamanager
 Version: 1.5.1-10
 Architecture: iphoneos-arm
 Maintainer: 5boosh Repo
+Depends: firmware (>= 7.0)
 Filename: ./debs/com.tigisoftware.appdatamanager_1.5.1-10_iphoneos-arm.deb
 Size: 3624416
 MD5sum: 30d531d2bf661de42ae813f9ba4bc3d2
