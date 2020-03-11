@@ -80,7 +80,7 @@ Package: com.antique.blots
 Version: 0.0.6
 Architecture: iphoneos-arm
 Maintainer: 5boosh Repo
-Depends: mobilesubstrate
+Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/com.antique.blots_0.0.6.deb
 Size: 28698
 MD5sum: 5e2d44be1f2a43643359360041700181
@@ -96,7 +96,7 @@ Package: com.rpgfarm.a-shields
 Version: 1.1.9
 Architecture: iphoneos-arm
 Maintainer: 5boosh Repo
-Depends: mobilesubstrate
+Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/com.rpgfarm.a-shields.deb
 Size: 32964
 MD5sum: eeb253eaa243f12d8c9e3308f2c0c7e3
@@ -105,7 +105,7 @@ SHA256: 324d937334f3aca8ff8ed94e1037dc0ed39282f8bb4c30733db7612e8a106789
 Section: Tweaks
 Depiction: https://5boosh.github.io/repo/depictions/?p=test7
 Description: Protect your device
-Author: Baw Appie <pp121324@gmail.com>
+Author: Baw Appie
 Name: A-Shields
 
 Package: com.tigisoftware.appdatamanager
@@ -119,6 +119,5 @@ SHA1: 540aa85145ede037d3c5600a9b1ff0aca21670b8
 SHA256: fef24deb1f6911a8262da9db9ad617f3ab803a9b42db71544296e46edffdd998
 Section: Utilities
 Depiction: https://5boosh.github.io/repo/depictions/?p=test8
-Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
-Author: TIGI Software
+Description: This tool provides the way to WIPE
 Name: Apps Manager

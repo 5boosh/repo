@@ -4,7 +4,7 @@
 	<version>1.1.9</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
+			<miniOS>11.0</miniOS>
 			<maxiOS>13.3</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
@@ -12,7 +12,7 @@
 	<shortDescription></shortDescription>
 	<descriptionlist>
 		<description></description>
-		<description>Supports iOS 10.0 - 13.3</description>
+		<description>Supports iOS 11.0 - 13.3</description>
 	</descriptionlist>
 	<screenshots>
 	</screenshots>
