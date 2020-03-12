@@ -88,8 +88,7 @@ SHA1: 9c39e8c17b52b030219b302c56cbc2dc16f3f52c
 SHA256: a3e4438eed524364e448211e53dfee75cdb6197ea0db9d10a45255b010921e4f
 Section: Tweaks
 Depiction: https://5boosh.github.io/repo/depictions/?p=test6
-Description: Notifications always on screen
-Author: Antique
+Description: تسمح لك بأضافة الاشعارات في البار العلوي على شكل تطبيقات
 Name: Blots
 
 Package: com.rpgfarm.a-shields
