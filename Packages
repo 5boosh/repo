@@ -26,7 +26,7 @@ SHA256: aa860e6c968bdcb1e46a8c004069d4aecb0815bea44c9e1c55f0b568f9f239ed
 Section: Tweaks
 Description: أداة أخفاء الجلبريك عن التطبيقات
 Depiction: https://5boosh.github.io/repo/depictions/?p=test2
-Author: XsF1re
+Author: 5boosh
 Name: FlyJB
 
 Package: com.5boosh.appstoreplusplus
