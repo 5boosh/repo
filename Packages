@@ -45,12 +45,12 @@ Author: CokePokes
 Depiction: https://5boosh.github.io/repo/depictions/?p=test3
 Name: AppStore++
 
-Package: me.nepeta.selector
+Package: me.5boosh.selector
 Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: 5boosh Repo
 Depends: firmware(>=11.0), mobilesubstrate
-Filename: ./debs/me.nepeta.selector_0.1.2_iphoneos-arm.deb
+Filename: ./debs/me.5boosh.selector_0.1.2_iphoneos-arm.deb
 Size: 29154
 MD5sum: be2ec8dc2bfdf9598b0931ec99d49184
 SHA1: 845cdcb663c179e1a0081a05f2887dc0ac618767
@@ -61,12 +61,12 @@ Depiction: https://5boosh.github.io/repo/depictions/?p=test4
 Author: Nepeta
 Name: Selector
 
-Package: com.bros4x.goldly
+Package: com.5boosh.goldly
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 5boosh Repo
 Depends: firmware(>=10.0), mobilesubstrate
-Filename: ./debs/com.bros4x.goldly_1.1_iphoneos-arm.deb
+Filename: ./debs/com.5boosh.goldly_1.1_iphoneos-arm.deb
 Size: 34583364
 MD5sum: 895125aa45f4f40779702e67bd0bccbb
 SHA1: 80c290d08140f52485b82b4584f523514bca95f3
