@@ -19,10 +19,10 @@ Architecture: iphoneos-arm
 Maintainer: 5boosh Repo
 Depends: firmware(>=11.0), mobilesubstrate, applist, preferenceloader
 Filename: ./debs/kr.5boosh.flyjb_0.2.3_beta3_iphoneos-arm.deb
-Size: 366658
-MD5sum: 74b39694b3d5dcf41c074668b140fead
-SHA1: b7364dffb85308bf8eebc4ce997a3c51bfd65706
-SHA256: 52132b95022f07dbed81f08612777676092a9f16be47b475e235b0511bbb7eb3
+Size: 366666
+MD5sum: 3f53ae447aa7533fcb67d3858f8bc322
+SHA1: ea1a1e077ab5c550244d88fbf946de8da3a282c9
+SHA256: aa860e6c968bdcb1e46a8c004069d4aecb0815bea44c9e1c55f0b568f9f239ed
 Section: Tweaks
 Description: أداة أخفاء الجلبريك عن التطبيقات
 Depiction: https://5boosh.github.io/repo/depictions/?p=test2
