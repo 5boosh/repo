@@ -122,3 +122,19 @@ Depiction: https://5boosh.github.io/repo/depictions/?p=test8
 Description: This tool provides the way to WIPE
 Author: TIGI Software
 Name: Apps Manager
+
+Package: net.5boosh.moorebarx13
+Version: 0.9.0~alpha1.0.6
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/5boosh.moorebarx13_0.9.0_alpha1.0.6_iphoneos-arm.deb
+Size: 80056
+MD5sum: 724e86fbb270378518d24a6a558cf3dd
+SHA1: 0badea16fe0dfe84e8545f381101f56f386d8700
+SHA256: 9ba1e7501f359ed274596b058de0346cd0e3ddc4f7954735e62dd6432e5ef099
+Section: Tweaks
+Description: تغيير عرض الساعة والبطارية والواي فاي والبيانات الخلوية
+Author: tateu
+Depiction: https://5boosh.github.io/repo/depictions/?p=test9
+Name: MooreBarX13
