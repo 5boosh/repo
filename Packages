@@ -107,12 +107,12 @@ Description: Protect your device
 Author: Baw Appie
 Name: A-Shields
 
-Package: com.tigisoftware.appdatamanager
+Package: com.5boosh.appdatamanager
 Version: 1.5.1-10
 Architecture: iphoneos-arm
 Maintainer: 5boosh Repo
 Depends: firmware (>= 7.0)
-Filename: ./debs/com.tigisoftware.appdatamanager_1.5.1-10_iphoneos-arm.deb
+Filename: ./debs/com.5boosh.appdatamanager_1.5.1-10_iphoneos-arm.deb
 Size: 3624416
 MD5sum: 30d531d2bf661de42ae813f9ba4bc3d2
 SHA1: 540aa85145ede037d3c5600a9b1ff0aca21670b8

@@ -1,5 +1,5 @@
 <package>
-	<id>com.tigisoftware.appdatamanager</id>
+	<id>com.5boosh.appdatamanager</id>
 	<name>Apps Manager</name>
 	<version>1.5.1-10</version>
 	<compatibility>
@@ -11,7 +11,7 @@
 	</compatibility>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description></description>
+		<description>This tool provides the way to WIPE</description>
 		<description>Supports iOS 7.0 - 13.3</description>
 	</descriptionlist>
 	<screenshots>
