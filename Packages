@@ -27,7 +27,7 @@ Section: Tweaks
 Description: أداة أخفاء الجلبريك عن التطبيقات
 Depiction: https://5boosh.github.io/repo/depictions/?p=test2
 Author: 5boosh
-Name: FlyJB
+Name: Flyjb
 
 Package: com.5boosh.appstoreplusplus
 Version: 0.9.8-9
