@@ -1,18 +1,18 @@
 <package>
-	<id>kr.5boosh.flyjb</id>
-	<name>Flyjb</name>
-	<version>0.2.3~beta3</version>
+	<id>com.nrkvv.snsnoads</id>
+	<name>SnsNoAds</name>
+	<version>0.3.2</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
+			<miniOS>10.0</miniOS>
 			<maxiOS>13.3</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>أداة أخفاء الجلبريك عن التطبيقات</description>
-		<description>Supports iOS 11.0 - 13.3</description>
+		<description></description>
+		<description>Supports iOS 10.0 - 13.3</description>
 	</descriptionlist>
 	<screenshots>
 	</screenshots>
