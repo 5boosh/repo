@@ -41,7 +41,6 @@ MD5sum: 4e8d1823e6c558f76ecf98f18dbb09c7
 SHA1: aa5f588c454a735de5923c9785ad9302a670cbd1
 SHA256: 8a258a952a9d1232aa4ebe07897f29c41470a8f97bd2f1d10dcb04cbfeba2a76
 Section: Tweaks
-Depiction: https://5boosh.github.io/repo/depictions/?p=test2
 Description: Exclude ads from Twitter/LINE.
 Author: m156@nrkvv
 Name: SnsNoAdd
