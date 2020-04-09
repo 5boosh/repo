@@ -61,3 +61,20 @@ Description: اداة لوضع الادوات بقسم مستقل بالاعدا
 Author: 5boosh
 Depiction: https://5boosh.github.io/repo/depictions/?p=test4
 Name: PreferenceOrganizer 2
+
+Package: co.5boosh.snapbreak
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
+Filename: ./debs/co.xrepo.classic.snapbreak_1.7.1_iphoneos-arm.deb
+Size: 6465122
+MD5sum: 72b321ff32a4fed6b3c8169529c17e9f
+SHA1: ced885feb24408705194dcfba6c7779d8771961e
+SHA256: cf7fb20d2444ce4c2d22ff09e2277fcf0d37194887d0dc740771e0ca82393af7
+Section: Tweaks
+Depiction: https://5boosh.github.io/repo/depictions/?p=test5
+Author: 5boosh
+Name: SnapBreak سناب بريك
+Priority: optional

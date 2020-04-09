@@ -1,19 +1,19 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>تابعني ع تويتر</name>
+			<name>تويتر</name>
 			<url>https://twitter.com/5boosh</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>أشتر لي قهوة</name>
+			<name>سناب شات</name>
+			<url>https://www.snapchat.com/add/king_5boosh</url>
+		<iconclass>fa fa-snapchat</iconclass>
+	</link>
+		<link>
+			<name>قهوة</name>
 			<url>https://www.paypal.me/KAlfifi</url>
 			<iconclass>fa fa-paypal</iconclass>
 		</link>
-		<link>
-		  <name>أضافة سناب شات</name>
-		  <url>https://www.snapchat.com/add/king_5boosh</url>
-		<iconclass>fa fa-snapchat</iconclass>
-	</link>
 	</footerlinks>
 </repo>
