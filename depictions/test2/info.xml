@@ -1,10 +1,10 @@
 <package>
-	<id>com.5boosh.snsnoads</id>
-	<name>SnsNoAdd</name>
-	<version>0.3.2</version>
+	<id>com.5boosh.a-bypass</id>
+	<name>A-Bypass</name>
+	<version>1.0.6</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
+			<miniOS>12.0</miniOS>
 			<maxiOS>13.3</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
@@ -12,7 +12,7 @@
 	<shortDescription></shortDescription>
 	<descriptionlist>
 		<description></description>
-		<description>Supports iOS 10.0 - 13.3</description>
+		<description>Supports iOS 12.0 - 13.3</description>
 	</descriptionlist>
 	<screenshots>
 	</screenshots>
