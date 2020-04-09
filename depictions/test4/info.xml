@@ -1,18 +1,18 @@
 <package>
-	<id>me.5boosh.selector</id>
-	<name>Selector</name>
-	<version>0.1.2</version>
+	<id>net.5boosh.preferenceorganizer2</id>
+	<name>PreferenceOrganizer 2</name>
+	<version>4.0.8</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
+			<miniOS>12.0</miniOS>
 			<maxiOS>13.3</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>أداة نسخ وترجمه فورية</description>
-		<description>Supports iOS 11.0 - 13.3</description>
+		<description></description>
+		<description>Supports iOS 12.0 - 13.3</description>
 	</descriptionlist>
 	<screenshots>
 	</screenshots>

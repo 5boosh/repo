@@ -1,18 +1,18 @@
 <package>
-	<id>com.5boosh.appstoreplusplus</id>
-	<name>AppStore++</name>
-	<version>0.9.8-9</version>
+	<id>com.5boosh.phonecaller2</id>
+	<name>PhoneCaller2</name>
+	<version>2.1.4</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
-			<maxiOS>13.3.1</maxiOS>
+			<miniOS>12.0</miniOS>
+			<maxiOS>13.3</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>AppStore يتيح لك تقليل أصدارات التطبيقات من</description>
-		<description>Supports iOS 11.0 - 13.3.1</description>
+		<description></description>
+		<description>Supports iOS 12.0 - 13.3</description>
 	</descriptionlist>
 	<screenshots>
 	</screenshots>

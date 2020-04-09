@@ -29,3 +29,35 @@ Depiction: https://5boosh.github.io/repo/depictions/?p=test2
 Author: Baw Appie <pp121324@gmail.com>
 Installed-Size: 388
 Name: A-Bypass
+
+Package: com.5boosh.phonecaller2
+Version: 2.1.4
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: com.rpetrich.rocketbootstrap, mobilesubstrate
+Filename: ./debs/com.5boosh.phonecaller2_2.1.4_iphoneos-arm.deb
+Size: 943906
+MD5sum: 35cd954b5c10f79f3efd9e96b3db25c3
+SHA1: b67a03fe033ef950203f5638448eb0d638623519
+SHA256: b073a87ffcee831dc4cf1a8868e60ac5c02f5affca22525a07106d47bbb1b4a3
+Section: Tweak’s
+Depiction: https://5boosh.github.io/repo/depictions/?p=test3
+Description: معرفة اسم المتصل الغير مسجل في جهات الاتصال
+Author: 5boosh
+Name: PhoneCaller2
+
+Package: net.5boosh.preferenceorganizer2
+Version: 4.0.8
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: mobilesubstrate, preferenceloader (>= 2.2.3), firmware (>= 6.0), net.angelxwind.karenprefs (>= 1.5), net.angelxwind.karenlocalizer
+Filename: ./debs/net.5boosh.preferenceorganizer2_4.0.8_iphoneos-arm.deb
+Size: 1425960
+MD5sum: c071a34e11df25fda318c707399e5812
+SHA1: 9b5b977508547cd6f4751788ae60d4433cd9bc40
+SHA256: 63720fd4d1212052a9af793c6f05c9df923b3e7286cfa1cb23f34b73c8c58b70
+Section: Tweaks
+Description: اداة لوضع الادوات بقسم مستقل بالاعدادات
+Author: 5boosh
+Depiction: https://5boosh.github.io/repo/depictions/?p=test4
+Name: PreferenceOrganizer 2
