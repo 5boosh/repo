@@ -25,6 +25,7 @@ SHA1: 1dd5c2ae88cc022bd886fb8fe82e9defc3c7f759
 SHA256: 3e3fce009289ba342e43fa65bceddd6ea5b7d99429e5516c38c736a180790528
 Section: Tweaks
 Description: Super Jailbreak detection bypass!
+Depiction: https://5boosh.github.io/repo/depictions/?p=test2
 Author: Baw Appie <pp121324@gmail.com>
 Installed-Size: 388
 Name: A-Bypass
