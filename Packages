@@ -29,19 +29,16 @@ Author: tateu
 Depiction: https://5boosh.github.io/repo/depictions/?p=test9
 Name: MooreBarX13
 
-Package: com.nrkvv.snsnoads
+Package: com.5boosh.snsnoads
 Version: 0.3.2
 Architecture: iphoneos-arm
 Maintainer: 5boosh
 Depends: mobilesubstrate, preferenceloader
-Conflicts: com.nrkvv.snsnoad
+Conflicts: com.5bbosh.snsnoad
 Filename: ./debs/com.nrkvv.snsnoads_0.3.2_iphoneos-arm.deb
 Size: 134634
 MD5sum: 4e8d1823e6c558f76ecf98f18dbb09c7
 SHA1: aa5f588c454a735de5923c9785ad9302a670cbd1
 SHA256: 8a258a952a9d1232aa4ebe07897f29c41470a8f97bd2f1d10dcb04cbfeba2a76
 Section: Tweaks
-Depiction: https://5boosh.github.io/repo/depictions/?p=test2
-Description: Exclude ads from Twitter/LINE.
-Author: m156@nrkvv
 Name: SnsNoAdd
