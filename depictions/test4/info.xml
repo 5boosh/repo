@@ -11,13 +11,10 @@
 	</compatibility>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description></description>
+		<description> اداة لوضع الادوات بقسم مستقل بالاعدادات</description>
 		<description>Supports iOS 12.0 - 13.3</description>
 	</descriptionlist>
 	<screenshots>
 	</screenshots>
-	<changelog>
-		<change>Initial release</change>
-	</changelog>
 	<links></links>
 </package>
