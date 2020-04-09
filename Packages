@@ -12,33 +12,3 @@ Section: iOS12
 Description: IPA أستخراج التطبيقات بصيغة
 Depiction: https://5boosh.github.io/repo/depictions/?p=test1
 Name: bfdecrypt
-
-Package: net.tateu.moorebarx13
-Version: 0.9.0~alpha1.0.6
-Architecture: iphoneos-arm
-Maintainer: 5boosh
-Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, applist
-Filename: ./debs/net.tateu.moorebarx13_0.9.0_alpha1.0.6_iphoneos-arm.deb
-Size: 80056
-MD5sum: 724e86fbb270378518d24a6a558cf3dd
-SHA1: 0badea16fe0dfe84e8545f381101f56f386d8700
-SHA256: 9ba1e7501f359ed274596b058de0346cd0e3ddc4f7954735e62dd6432e5ef099
-Section: Tweaks
-Description: تغيير عرض الساعة والبطارية والواي فاي والبيانات الخلوية
-Author: tateu
-Depiction: https://5boosh.github.io/repo/depictions/?p=test9
-Name: MooreBarX13
-
-Package: com.5boosh.snsnoads
-Version: 0.3.2
-Architecture: iphoneos-arm
-Maintainer: 5boosh
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.5bbosh.snsnoad
-Filename: ./debs/com.nrkvv.snsnoads_0.3.2_iphoneos-arm.deb
-Size: 134634
-MD5sum: 4e8d1823e6c558f76ecf98f18dbb09c7
-SHA1: aa5f588c454a735de5923c9785ad9302a670cbd1
-SHA256: 8a258a952a9d1232aa4ebe07897f29c41470a8f97bd2f1d10dcb04cbfeba2a76
-Section: Tweaks
-Name: SnsNoAdd
