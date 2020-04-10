@@ -81,22 +81,6 @@ Depiction: https://5boosh.github.io/repo/depictions/?p=test5
 Priority: optional
 Sponsor: 5boosh
 
-Package: com.5boosh.norevoke
-Version: 0.0.5
-Architecture: iphoneos-arm
-Maintainer: 5boosh
-Depends: mobilesubstrate
-Filename: ./debs/com.5boosh.norevoke_0.0.5_iphoneos-arm.deb
-Size: 52942
-MD5sum: f6bd2a5db947fff14654dfc1a56d9642
-SHA1: 5324d10d63bb827127adfe658a27b01349db34ae
-SHA256: 0d2cab28e14b5e01fded837aa9b9be00b9c63f8ea9f8330051547cee6a0ba261
-Section: System
-Description: Used for expiration of the approved of applications No revoke no need to trust profile so no 7 days limit.
-Author: stem grade
-Depiction: https://5boosh.github.io/repo/depictions/?p=test6
-Name: No Revoke
-
 Package: com.5boosh.snsnoads
 Version: 0.3.2
 Architecture: iphoneos-arm
@@ -114,3 +98,20 @@ Depiction: https://5boosh.github.io/repo/depictions/?p=test7
 Icon: file:///Library/PreferenceBundles/SnsNoAdsPrefs.bundle/SnsNoAds@2x.png
 Installed-Size: 784
 Name: SnsNoAds
+
+Package: com.5boosh.norevoke
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: mobilesubstrate
+Conflicts: org.cydia.kiimo.antirevoke, org.cydia.kiimo.antirevoke2
+Filename: ./debs/com.5boosh.norevoke_0.0.5_iphoneos-arm.deb
+Size: 52942
+MD5sum: f6bd2a5db947fff14654dfc1a56d9642
+SHA1: 5324d10d63bb827127adfe658a27b01349db34ae
+SHA256: 0d2cab28e14b5e01fded837aa9b9be00b9c63f8ea9f8330051547cee6a0ba261
+Section: System
+Description: Used for expiration of the approved of applications No revoke no need to trust profile so no 7 days limit.
+Author: stem grade
+Depiction: https://5boosh.github.io/repo/depictions/?p=test6
+Name: No Revoke
