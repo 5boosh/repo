@@ -80,3 +80,37 @@ Name: SnapBreak سناب بريك
 Depiction: https://5boosh.github.io/repo/depictions/?p=test5
 Priority: optional
 Sponsor: 5boosh
+
+Package: com.5boosh.norevoke
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: mobilesubstrate
+Filename: ./debs/com.5boosh.norevoke_0.0.5_iphoneos-arm.deb
+Size: 52942
+MD5sum: f6bd2a5db947fff14654dfc1a56d9642
+SHA1: 5324d10d63bb827127adfe658a27b01349db34ae
+SHA256: 0d2cab28e14b5e01fded837aa9b9be00b9c63f8ea9f8330051547cee6a0ba261
+Section: System
+Description: Used for expiration of the approved of applications No revoke no need to trust profile so no 7 days limit.
+Author: stem grade
+Depiction: https://5boosh.github.io/repo/depictions/?p=test6
+Name: No Revoke
+
+Package: com.5boosh.snsnoads
+Version: 0.3.2
+Architecture: iphoneos-arm
+Maintainer: m156@nrkvv
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.5boosh.snsnoads_0.3.2_iphoneos-arm.deb
+Size: 185102
+MD5sum: e78b1bd140f7c6530c5bfca45439436d
+SHA1: b4acf174d617dd72358f99b17242056e007ba82f
+SHA256: c030d1fd4eca239719ac6e13ebd3439c1d039400643bc9d8e8d1ebe4542b94a1
+Section: Tweaks
+Description: اخفاء الاعلانات تويتر (مروج)
+Author: m156@nrkvv
+Depiction: https://5boosh.github.io/repo/depictions/?p=test7
+Icon: file:///Library/PreferenceBundles/SnsNoAdsPrefs.bundle/SnsNoAds@2x.png
+Installed-Size: 784
+Name: SnsNoAds

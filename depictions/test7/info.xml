@@ -1,23 +1,20 @@
 <package>
-	<id>com.rpgfarm.a-shields</id>
-	<name>A-Shields</name>
-	<version>1.1.9</version>
+	<id>com.5boosh.snsnoads</id>
+	<name>SnsNoAds</name>
+	<version>0.3.2</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
+			<miniOS>12.0</miniOS>
 			<maxiOS>13.3</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
-	<shortDescription>Protect your device</shortDescription>
+	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>Protect your device</description>
-		<description>Supports iOS 11.0 - 13.3</description>
+		<description> اخفاء الاعلانات تويتر (مروج)</description>
+		<description>Supports iOS 12.0 - 13.3</description>
 	</descriptionlist>
 	<screenshots>
 	</screenshots>
-	<changelog>
-		<change>Initial release</change>
-	</changelog>
 	<links></links>
 </package>
