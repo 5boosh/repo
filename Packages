@@ -115,3 +115,54 @@ Description: Used for expiration of the approved of applications No revoke no ne
 Author: stem grade
 Depiction: https://5boosh.github.io/repo/depictions/?p=test6
 Name: No Revoke
+
+Package: co.5boosh.ipwp
+Version: 1.0-44+debug
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: mobilesubstrate
+Filename: ./debs/co.5boosh.ipwp_1.0-44+debug_iphoneos-arm.deb
+Size: 228772
+MD5sum: 852fccc1a532590cae626c19d77d36e6
+SHA1: b2879d8927d4aaff8dc1e73540bdaa0ceddfcd09
+SHA256: 6788dcdb228311577fe941132ab942201640586437f93c5fc6903fbccf707322
+Section: Games
+Author: AnonieDev
+Icon: https://img.utdstc.com/icons/call-of-duty-legends-of-war-android.png:l
+Installed-Size: 688
+Depiction: https://5boosh.github.io/repo/depictions/?p=test8
+Name: Call Of Duty Hack Aimpot
+Sponsor: 5boosh
+
+Package: co.5boosh.rhino
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./debs/co.5boosh.rhino_2.0.2_iphoneos-arm.deb
+Size: 473004
+MD5sum: 3af8a19d11976a14369a5cf28eedc670
+SHA1: fc430cfe5998fd9aad60afd0458532abd27cea30
+SHA256: f37bf2581547b1850a00920f88a1c1f3c11b4dfda2e61a7465d31cdb8ac6544a
+Section: Tweaks
+Author: Michael Lema <samewhitetee@gmail.com>
+Icon: https://raw.githubusercontent.com/LemaMichael/Unicorn/master/Demo/RhinoIcon.png
+Depiction: https://5boosh.github.io/repo/depictions/?p=test9
+Name: Rhino الحفظ للانستغرام
+Sponsor: 5boosh
+
+Package: com.5boosh.a-shields
+Version: 1.1.9
+Architecture: iphoneos-arm
+Maintainer: Baw Appie <pp121324@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.5boosh.a-shields_1.1.9_iphoneos-arm.deb
+Size: 54876
+MD5sum: 6aae50a0104ef51c2a8b7657a951c1c0
+SHA1: 2362f02e080fb7fbcad7c2d8e8296ed7aa54fde8
+SHA256: be2ed14dc1083922a5109ec7fe2e514ffd666c181dfccfe7ed712bd4363b487c
+Section: Tweaks
+Depiction: https://5boosh.github.io/repo/depictions/?p=test10
+Description: إغلاق التطبيقات بالبصمة من الاعدادات
+Author: Baw Appie <pp121324@gmail.com>
+Name: A-Shields
