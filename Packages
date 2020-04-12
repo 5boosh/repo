@@ -48,7 +48,6 @@ Name: TOPphone
 Priority: optional
 Sponsor: 5boosh
 
-
 Package: com.5boosh.phonecaller2
 Version: 2.1.4
 Architecture: iphoneos-arm
@@ -169,3 +168,21 @@ Depiction: https://5boosh.github.io/repo/depictions/?p=test10
 Description: إغلاق التطبيقات بالبصمة من الاعدادات
 Author: Baw Appie <pp121324@gmail.com>
 Name: A-Shields
+
+Package: com.5boosh.cacheclearerx
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.5boosh.cacheclearerx_1.0_iphoneos-arm.deb
+Size: 1002226
+MD5sum: e6536287903de7a357b6c976bd330dfd
+SHA1: 5d26e8a91ccabdaa5ad88df3943adf37f0bdb194
+SHA256: 507f364e0e1472d1569079f347cf51a924941c375cb63a61ba37b0423d8da63f
+Section: Tweaks
+Description: Clear applications cache from the storage settings or from the 3D Touch/Force Touch Shortcut.
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://5boosh.github.io/repo/depictions/?p=test12
+Icon: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/DebIcon.png
+Installed-Size: 1216
+Name: CacheClearerX
