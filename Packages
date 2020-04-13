@@ -10,7 +10,7 @@ SHA1: 3ad979027b333320581d71b9b5e2150dc070ba05
 SHA256: 1e4a78a1b2235604cf8b1d341288bfd5e89f4b0227229692a62be7682b1adcb2
 Section: iOS12
 Description: IPA أستخراج التطبيقات بصيغة
-Depiction: https://5boosh.github.io/repo/depictions/?p=test1
+Depiction: https://5boosh.com/depictions/?p=test1
 Name: bfdecrypt
 
 Package: com.5boosh.a-bypass
@@ -25,7 +25,7 @@ SHA1: 1dd5c2ae88cc022bd886fb8fe82e9defc3c7f759
 SHA256: 3e3fce009289ba342e43fa65bceddd6ea5b7d99429e5516c38c736a180790528
 Section: Tweaks
 Description: Super Jailbreak detection bypass!
-Depiction: https://5boosh.github.io/repo/depictions/?p=test2
+Depiction: https://5boosh.com/depictions/?p=test2
 Author: Baw Appie <pp121324@gmail.com>
 Installed-Size: 388
 Name: A-Bypass
@@ -42,7 +42,7 @@ SHA1: 2ef049ddac493407f391443aaa2218261b3cac13
 SHA256: 1f268f980375432c061bd9d07d4560a9ce8c3a0eca0dd00d3a32393dc5c6e6db
 Section: Supports iOS 13
 Author: ahmedmakls
-Depiction: https://5boosh.github.io/repo/depictions/?p=test3
+Depiction: https://5boosh.com/depictions/?p=test3
 Installed-Size: 2388
 Name: TOPphone
 Priority: optional
@@ -61,7 +61,7 @@ SHA256: b073a87ffcee831dc4cf1a8868e60ac5c02f5affca22525a07106d47bbb1b4a3
 Section: Tweak’s
 Description: معرفة اسم المتصل الغير مسجل في جهات الاتصال
 Author: 5boosh
-Depiction: https://5boosh.github.io/repo/depictions/?p=test4
+Depiction: https://5boosh.com/depictions/?p=test4
 Name: PhoneCaller2
 
 Package: co.5boosh.snapbreak
@@ -79,7 +79,7 @@ Section: Tweaks
 Author: Snaphelper
 Icon: https://plus.3z43.com/wp-content/uploads/2020/02/admin-ajax.php_-1.png
 Name: SnapBreak سناب بريك
-Depiction: https://5boosh.github.io/repo/depictions/?p=test5
+Depiction: https://5boosh.com/depictions/?p=test5
 Priority: optional
 Sponsor: 5boosh
 
@@ -96,7 +96,7 @@ SHA256: c030d1fd4eca239719ac6e13ebd3439c1d039400643bc9d8e8d1ebe4542b94a1
 Section: Tweaks
 Description: اخفاء الاعلانات تويتر (مروج)
 Author: m156@nrkvv
-Depiction: https://5boosh.github.io/repo/depictions/?p=test7
+Depiction: https://5boosh.com/depictions/?p=test7
 Icon: file:///Library/PreferenceBundles/SnsNoAdsPrefs.bundle/SnsNoAds@2x.png
 Installed-Size: 784
 Name: SnsNoAds
@@ -115,7 +115,7 @@ SHA256: 0d2cab28e14b5e01fded837aa9b9be00b9c63f8ea9f8330051547cee6a0ba261
 Section: System
 Description: Used for expiration of the approved of applications No revoke no need to trust profile so no 7 days limit.
 Author: stem grade
-Depiction: https://5boosh.github.io/repo/depictions/?p=test6
+Depiction: https://5boosh.com/depictions/?p=test6
 Name: No Revoke
 
 Package: co.5boosh.ipwp
@@ -132,7 +132,7 @@ Section: Games
 Author: AnonieDev
 Icon: https://img.utdstc.com/icons/call-of-duty-legends-of-war-android.png:l
 Installed-Size: 688
-Depiction: https://5boosh.github.io/repo/depictions/?p=test8
+Depiction: https://5boosh.com/depictions/?p=test8
 Name: Call Of Duty Hack Aimpot
 Sponsor: 5boosh
 
@@ -149,7 +149,7 @@ SHA256: f37bf2581547b1850a00920f88a1c1f3c11b4dfda2e61a7465d31cdb8ac6544a
 Section: Tweaks
 Author: Michael Lema <samewhitetee@gmail.com>
 Icon: https://raw.githubusercontent.com/LemaMichael/Unicorn/master/Demo/RhinoIcon.png
-Depiction: https://5boosh.github.io/repo/depictions/?p=test9
+Depiction: https://5boosh.com/depictions/?p=test9
 Name: Rhino الحفظ للانستغرام
 Sponsor: 5boosh
 
@@ -164,7 +164,7 @@ MD5sum: 6aae50a0104ef51c2a8b7657a951c1c0
 SHA1: 2362f02e080fb7fbcad7c2d8e8296ed7aa54fde8
 SHA256: be2ed14dc1083922a5109ec7fe2e514ffd666c181dfccfe7ed712bd4363b487c
 Section: Tweaks
-Depiction: https://5boosh.github.io/repo/depictions/?p=test10
+Depiction: https://5boosh.com/depictions/?p=test10
 Description: إغلاق التطبيقات بالبصمة من الاعدادات
 Author: Baw Appie <pp121324@gmail.com>
 Name: A-Shields
@@ -182,7 +182,7 @@ SHA256: 507f364e0e1472d1569079f347cf51a924941c375cb63a61ba37b0423d8da63f
 Section: Tweaks
 Description: Clear applications cache from the storage settings or from the 3D Touch/Force Touch Shortcut.
 Author: alex_png <alex.png.cc@gmail.com>
-Depiction: https://5boosh.github.io/repo/depictions/?p=test12
+Depiction: https://5boosh.com/depictions/?p=test12
 Icon: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/DebIcon.png
 Installed-Size: 1216
 Name: CacheClearerX
