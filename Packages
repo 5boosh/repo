@@ -24,7 +24,7 @@ MD5sum: 1ee154a9045daec3a704a4253bb4a183
 SHA1: 1dd5c2ae88cc022bd886fb8fe82e9defc3c7f759
 SHA256: 3e3fce009289ba342e43fa65bceddd6ea5b7d99429e5516c38c736a180790528
 Section: Tweaks
-Description: Super Jailbreak detection bypass!
+Description: أخفاء الجلبريك عن التطبيقات!
 Depiction: https://5boosh.com/depictions/?p=test2
 Author: Baw Appie <pp121324@gmail.com>
 Installed-Size: 388
@@ -44,6 +44,7 @@ Section: Supports iOS 13
 Author: ahmedmakls
 Depiction: https://5boosh.com/depictions/?p=test3
 Installed-Size: 2388
+Description: تخصيص ألوان تطبيق الهاتف والعديد من ميزات للتطبيق
 Name: TOPphone
 Priority: optional
 Sponsor: 5boosh
@@ -180,9 +181,1119 @@ MD5sum: e6536287903de7a357b6c976bd330dfd
 SHA1: 5d26e8a91ccabdaa5ad88df3943adf37f0bdb194
 SHA256: 507f364e0e1472d1569079f347cf51a924941c375cb63a61ba37b0423d8da63f
 Section: Tweaks
-Description: Clear applications cache from the storage settings or from the 3D Touch/Force Touch Shortcut.
+Description: 3D Touch / Force Touch Shortcut مسح ذاكرة التخزين المؤقت للتطبيقات من إعدادات التخزين أو من .
 Author: alex_png <alex.png.cc@gmail.com>
-Depiction: https://5boosh.com/depictions/?p=test12
+Depiction: https://5boosh.com/depictions/?p=test11
 Icon: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/DebIcon.png
 Installed-Size: 1216
 Name: CacheClearerX
+
+Package: com.5boosh.dai
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/com.5boosh.dai_1.0_iphoneos-arm.deb
+Size: 50246292
+MD5sum: 33edb4338ef1d8349b43b08486689d00
+SHA1: ab8b80bd5e83e0384438c818dc9ae915c2a744fc
+SHA256: 0e147ae089dea21797875d9f7e973319b3e6677c452fc9d513fb68154c42079b
+Section: Themes
+Depiction: https://5boosh.com/depictions/?p=test12
+Description: enjoy Free theme for your iPhone
+Name: Dai
+
+Package: com.5boosh.goldly
+Version: 1.1
+Architecture: iphoneos-arm
+Filename: ./debs/com.5boosh.goldly_1.1_iphoneos-arm.deb
+Size: 34583284
+MD5sum: c51b971d36c294f9350401e5354255f4
+SHA1: 602e5216a852238ab422ab9a3156520e9019afad
+SHA256: 48503ac5c2f2e9bed5912d2c30402026d820d3fd949b874c44e84017f8a61ed8
+Section: Themes
+Depiction: https://5boosh.com/depictions/?p=test13
+Description: Theme GoldLy- support iOS 10 & 11 & 12 & 13
+Installed-Size: 3082504
+Name: GoldLy
+
+Package: com.5boosh.krimy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @Mohammed_agha10 <repo9k@gmail.com>
+Filename: ./debs/com.5boosh.krimy_1.0_iphoneos-arm.deb
+Size: 22193314
+MD5sum: 11481ad673c7b5b2f3483b6b92371df4
+SHA1: 043a67f9397b2174d218a65fcbbe01d6b34badfa
+SHA256: dba287fd9af0934005a82b53a1fe11b6fbab6679e847b15d56fbd3619e5f1a9e
+Section: Themes
+Depiction: https://5boosh.com/depictions/?p=test14
+Description: Theme krimy - support iOS 10 & 11 & 12 & 13
+ Need To install SnowBoard
+Name: krimy
+
+Package: ru.5boosh.nox
+Version: 3.1
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Filename: ./debs/ru.5boosh.nox_3.1_iphoneos-arm.deb
+Size: 2906566
+MD5sum: 6ac474294832562905c753283f2cb077
+SHA1: 8e00583a9c1263e3317886b6aa9cfc2dc43ad959
+SHA256: 5c999ed1c0d7089956d69be05f567dc92f4156ff7dde0c3069242762e9b021c2
+Section: Themes
+Description: Тема Nox.
+Author: Carlos Estrada <me@caestrada.com>
+Depiction: https://5boosh.com/depictions/?p=test15
+Icon: file:///Library/Themes/Nox\ Underlay\ Black.theme/Icon.png
+Installed-Size: 2970
+Name: Nox
+
+Package: com.5boosh.Biesdi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Filename: ./debs/com.5boosh.Biesdi_1.0_iphoneos-arm.deb
+Size: 21404052
+MD5sum: 9d54a392f2813ca7a4557d173d87cb19
+SHA1: 31bd6fb8f9870737fc32714d6118d545412db313
+SHA256: 3488e0805d7cf7496de9689dfb9b937ebba315b5e9c9a9884cacbd8aa884b6c2
+Section: Themes
+Depiction: https://5boosh.com/depictions/?p=test16
+Description: Need To install SnowBoard
+Name: Biesdi
+
+Package: com.5boosh.hazardous
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Filename: ./debs/com.5boosh.hazardous_1.0_iphoneos-arm.deb
+Size: 9339606
+MD5sum: 30f9e93f3d38dd6121b036a425b14dc9
+SHA1: 6ece79e76861d8a90e8f3291e3cec63381c3abce
+SHA256: a951355c17a64598a9ea3728fdf3992d625eea84a519e90cc48ff856efd437a1
+Section: Themes
+Depiction: https://5boosh.com/depictions/?p=test17
+Description: Need To install SnowBoard or iThemer
+Name: Hazardous
+
+Package: in.5boosh.darker
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: ItsTNT <hello@tnttaol.in>
+Filename: ./debs/in.5boosh.darker_2.5_iphoneos-arm.deb
+Size: 17208416
+MD5sum: bd236978e455a81a03b20b94e837157c
+SHA1: 4a9bd753da2072010db9cbde29f73a202cb6bbaf
+SHA256: e451147d4ddf1859ba0d242f0d611fe71e49f614c758a2833914bb75a0f6bf16
+Section: Themes
+Depiction: https://5boosh.com/depictions/?p=test18
+Description: Same icons, same style, just darker.
+Author: ItsTNT <hello@tnttaol.in>
+Homepage: https://darker.tnttaol.in
+Name: Darker
+
+Package: com.5boosh.dleasy
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Filename: ./debs/com.5boosh.dleasy_1.5.2_iphoneos-arm.deb
+Size: 1506580
+MD5sum: 49be9a0f72572e1c9862ae195f7012e5
+SHA1: cd3d9c4a000f5bd05044f1a3dc88cf5288a8814c
+SHA256: 7eefc85b47c93b2aabd3428df5b42077be91dbe8d858cc8513f8f62af8583d04
+Section: Tweaks
+Description: Download images & videos from social apps easily!
+Author: Ahmed Bafkir <prooxy0@gmail.com>
+Depiction: https://5boosh.com/depictions/?p=test19
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dleasyDp
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
+Installed-Size: 4612
+Name: DLEasy
+Priority: optional
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: ahmedbafkir
+
+Package: ru.5boosh.violaglyphs
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Filename: ./debs/ru.5boosh.violaglyphs_1.1_iphoneos-arm.deb
+Size: 16625858
+MD5sum: c2ce9d8fa07fd65f262f18f0aaed389f
+SHA1: d767d0daaf19366900ab8aa2361d00041acea221
+SHA256: f44979b8d9832bf3894816ca4e4c18188dfd7b4d6fb066696b0534e9c8e823bf
+Section: Themes
+Description: Тема Viola Glyphs
+Author: Bousrih <bousrih20@gmail.com>
+Depiction: https://5boosh.com/depictions/?p=test20
+Installed-Size: 17570
+Name: Viola Glyphs
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=violaglyphs
+
+Package: ca.5boosh.voltage
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/ca.5boosh.voltage_1.6.2_iphoneos-arm.deb
+Size: 55788
+MD5sum: 87245b8e2fca7f263e41aab7af84b186
+SHA1: 404e4e6d5c7c94c6432567af8e63e24a806d85ce
+SHA256: cbba93436b873ea9c17741428b5bff0534c872254111a61c4ba492eebcc77300
+Section: Tweaks
+Description: منع بانر الاشعار من الظهر في تطبيقات معينة
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depiction: https://5boosh.com/depictions/?p=test21
+Installed-Size: 488
+Name: Eyeplugs
+Pre-Depends: firmware (>= 9.0)
+
+Package: com.5boosh.arch
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: machport
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.5boosh.arch_1.3_iphoneos-arm.deb
+Size: 103400
+MD5sum: 8aeb9506a6d1ee9a6faed3b9c968401a
+SHA1: 69e495fad10c660a085c3757526fff4f84937ce8
+SHA256: 25754e0e511fb0d402018a16e93d9f4d2971bf7a00c9a67876e08269de899fa9
+Section: Tweaks
+Depiction: https://5boosh.com/depictions/?p=test22
+Description:  Face ID اغلاق التطبيقات بالبصمة او بـ
+Author: machport
+Installed-Size: 548
+Name: Arch
+
+Package: com.5boosh.colorbanners3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: David Goldman <help@golddavid.com>
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
+Filename: ./debs/com.5boosh.colorbanners3_1.0.1_iphoneos-arm.deb
+Size: 227196
+MD5sum: 18e063b1b3567e83aeb4b741f44be8a6
+SHA1: 6fb2ca278ab8b9c726c3d6e058b1b44ed68c9196
+SHA256: cd81b8e7f6f4466faa71ae416e57bce7a485a0f7ec34d7417370fa8dcf86e316
+Section: Tweaks
+Description: تلوين شعارات الإشعارات حسب لون أيقونة التطبيق
+Author: David Goldman <help@golddavid.com>
+Depiction: https://5boosh.com/depictions/?p=test23
+Installed-Size: 584
+Name: ColorBanners 3
+
+Package: com.5boosh.cutecuthack
+Version: 0.0.1-1+debug-1
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: mobilesubstrate
+Filename: ./debs/com.5boosh.cutecuthack_0.0.deb
+Size: 4440
+MD5sum: ddfa8b638665f4c0f8a6a858a0f1ff28
+SHA1: f2332a4f090c9d4308ac6974b3c34c921f6100a7
+SHA256: 633d51f62404201d7e57698ffb995df780108b37aa047066dc9d5763f5d7d86f
+Section: Apps Hack
+Description: المميزات الكاملة لتطبيق Cute CUT APP
+Depiction: https://5boosh.com/depictions/?p=test24
+Author: 5boosh
+Installed-Size: 120
+Name: Cute CUT Hack
+
+Package: com.5boosh.hidejblite
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TTJB Team <admin@thuthuatjb.com>
+Depends: mobilesubstrate, applist, preferenceloader, ws.hbang.common, com.thuthuatjb.iconrepo
+Conflicts: com.thuthuatjb.hidejb
+Replaces: com.thuthuatjb.hidejb
+Filename: ./debs/com.5boosh.hidejblite_1.0_iphoneos-arm.deb
+Size: 324402
+MD5sum: 3cad2f1073a3766d604842ce106327cd
+SHA1: c569e3586e3f87b4003bf24ac5ae00e9e9826bed
+SHA256: a32b3147a1d53366b5c7e17eed1538223dfeecdeef04793f47a52d6954dad9b4
+Section: Tweaks
+Description: أخفاء الجلبريك على تطبيقات معينة
+Author: TTJB Team <admin@thuthuatjb.com>
+Depiction: https://5boosh.com/depictions/?p=test25
+Icon: file:///Library/IconRepo/tinhchinh.png
+Name: HideJB Lite
+Tag: purpose::extension
+
+Package: com.5boosh.localiapstore
+Version: 1.4-4
+Architecture: iphoneos-arm
+Maintainer: vishnujasti <vishnumykie@icloud.com>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.5boosh.localiapstore_1.deb
+Size: 70758
+MD5sum: 1ac62dfd807075ab5c4c4df05537815f
+SHA1: c43b4d9bb831ac5e0230167520e5ad1caa6946a1
+SHA256: fd2e0e90d347561061ef623f89cfadef5ce60cee98f5a879c4bffcd046776e89
+Section: Supports IOS12.x
+Description: الشراء من داخل التطبيقات او الالعاب
+Author: Pangu <vishnumykie@icloud.com>
+Depiction: https://5boosh.com/depictions/?p=test26
+Name: LocalIAPStore
+Sponsor: 5boosh
+
+Package: de.5boosh.adaptivekeyboard
+Version: 1.1.0-1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debs/de.5boosh.adaptivekeyboard_1.1.0-1_iphoneos-arm.deb
+Size: 12948
+MD5sum: fbe731b23028516e17e44fa33cb03345
+SHA1: e5c34582f6c49cd43d1637c8c3d585f87e7e06d3
+SHA256: c495c66b4d3eb86b7e8f5cb967ca1ff66c5c262520b6a340590ac21f2c3a4df3
+Section: Themes
+Description:
+Author: rud0lf77 <rud0lf77@me.com>
+Depiction: https://5boosh.com/depictions/?p=test27
+Name: AdaptiveKeyboard
+
+Package: me.5boosh.AutoTouch.ios8
+Version: 6.1.2
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/me.5boosh.AutoTouch.ios8_6.1.2_iphoneos-arm.deb
+Size: 47016254
+MD5sum: f6482ef0d00831d82fbc0016d11dbffa
+SHA1: 14a58c5577e48e726e37a934bdd698dd0dbec0ec
+SHA256: 08f9bcfc708dba56e26b175883a65e1d555afb49251a1722870d520c65b39432
+Section: Utilities
+Description: تسجيل لمسات أصابعك على الشاشة وحفظها لتكرارها
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Installed-Size: 107852
+Depiction: https://5boosh.com/depictions/?p=test28
+Name: AutoTouch
+Priority: optional
+
+Package: com.5boosh.onlinenotify
+Version: 3.2.0
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.14), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Conflicts: com.f0u4d.onlinenotifybeta, com.f0u4d.onlinenotify2, com.imokhles.waquickreply.bb
+Filename: ./debs/com.5boosh.onlinenotify_3.2.0_iphoneos-arm.deb
+Size: 656446
+MD5sum: 2d0558cb3095a4e79b36850e008a75c6
+SHA1: 4e920aed8d11fbe7bb3896057441b34a77f1768f
+SHA256: 0af653706ca235b94077da407f316b929b8134dfbf8e0025833f8121a4828fe2
+Section: Tweaks
+Description:  WhatsApp Messenger تتبع أصدقائك على !
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://5boosh.com/depictions/?p=test29
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=onlinenotifyDp
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/OnlineNotifyPrefsIcon@2x.png
+Installed-Size: 2221
+Name: OnlineNotify
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: f0u4d
+
+Package: com.5boosh.dockspring
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: neoney
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.5boosh.dockspring_1.0.0_iphoneos-arm.deb
+Size: 11934
+MD5sum: 017904b6d673997e00b0d709282905e3
+SHA1: dbcf93ab20bd55d0b0d19e697f3cbd57df4575cd
+SHA256: fd7c64b4e03a128ec421909f137085ed8d632574c3a288d57a789654e459873e
+Section: Tweaks
+Description: سحب الدوك السفلي للاعلى لعمل ريسبرنق سريع
+Author: neoney
+Depiction: https://5boosh.com/depictions/?p=test30
+Icon: https://neoney.xyz/DockSpring.jpg
+Installed-Size: 136
+Name: DockSpring
+
+Package: com.5boosh.albumhider
+Version: 0.0~beta3
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.5boosh.albumhider_0.0_beta3_iphoneos-arm.deb
+Size: 37144
+MD5sum: 08839c8dd0d1b5380124d89a306099b4
+SHA1: f0cddf018eff98552857e2a0e16cb0d423471b85
+SHA256: 701b2afe93a91319018d87fa52a41238f94b734c803ffbf4b4abd9b9e54c2c50
+Section: Tweaks
+Description: إخفاء أي ألبوم في تطبيق الصور
+Author: julioverne
+Depiction: https://5boosh.com/depictions/?p=test31
+Name: AlbumHider
+
+Package: com.5boosh.cask
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Ryan Nair
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Filename: ./debs/com.5boosh.cask_1.0.1_iphoneos-arm.deb
+Size: 42806
+MD5sum: 43618d763fd16dbba9cbbfe3f5d0163e
+SHA1: 6c0a2a43e6943e4c880ca73d170195c0c771f0a0
+SHA256: c89aed6987502dd773af6b0bce8ccf9c5c000917c903d715de65ec7b9f277c4c
+Section: Tweaks
+Description: تغير طريقة التمرير في الصفحات
+Author: Ryan Nair
+Depiction: https://5boosh.com/depictions/?p=test32
+Installed-Size: 300
+Name: Cask 2
+
+Package: com.5boosh.colorswitch
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: ahmedmakls
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debs/com.5boosh.colorswitch_1.0-2_iphoneos-arm.deb
+Size: 2773378
+MD5sum: aa612841dd9fbaa41df489084080b0b6
+SHA1: b10280db88cdc051812265d0291d392662f83419
+SHA256: 1381bae64c1b65096ddee0d8bd6c59ac27e60f941b51220eabedd19a7ccd7452
+Section: Tweaks
+Description: تغيير الوان ازرار التفعيل و التعطيل في النظام
+Author: ahmedmakls
+Depiction: https://5boosh.com/depictions/?p=test33
+Installed-Size: 2824
+Name: Color Switch
+Priority: optional
+dev: ahmedmakls
+
+Package: com.5boosh.dawn
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0), preferenceloader
+Filename: ./debs/com.5boosh.dawn_1.0.2_iphoneos-arm.deb
+Size: 197958
+MD5sum: 67eaed8416d518caec85c37301f0db2a
+SHA1: 587eb97b7565905246662787762d93161b39c2fc
+SHA256: 04a52b3d5f81ac61543ac439cbb615d51da962ab359e09d1747113aacb540375
+Section: Tweaks
+Description: تفعيل الوضع الليلي لبعض الأجزاء بالجهاز
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depiction: https://5boosh.com/depictions/?p=test34
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dawnDp
+Icon: file:///Library/PreferenceBundles/DawnSettings.bundle/icon@2x.png
+Installed-Size: 554
+Name: Dawn
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios13
+dev: ethanrdoesmc
+
+Package: ru.5boosh.networkmanager
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/ru.5boosh.networkmanager_1.0.2_iphoneos-arm.deb
+Size: 47740
+MD5sum: cfe36be0cde307be55c4fec7f4638628
+SHA1: 6dfed604e21350113db36466231465ff8e5375c7
+SHA256: 1cade15e24bd485a2293e0e01802eaa80ae6b99637811ca81a0588d62edc6b33
+Section: Tweaks
+Description: 4G 3G 2G تثبيت الشبكة دايماً على
+Author: NoisyFlake
+Depiction: https://5boosh.com/depictions/?p=test35
+Installed-Size: 294
+Name: NetworkManager
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=networkmanager
+
+Package: com.5boosh.nicebarx13
+Version: 1.0.1.0-378
+Architecture: iphoneos-arm
+Maintainer: niceios
+Depends: com.rpetrich.rocketbootstrap(>=1.0.7~beta3),mobilesubstrate,com.niceios.nicehelper(>=2.5)
+Filename: ./debs/com.5boosh.nicebarx13_1.0.1.0-378_iphoneos-arm.deb
+Size: 4992118
+MD5sum: b1e2c7bbc5142c44db09334d1bbf3bfb
+SHA1: fa0c371f4daf66f544d4345185b478d37d99f33f
+SHA256: c014b9f3d4bd5cd12f2d826a958c4bac03f9c5b943f7976964a4128393da7973
+Section: Tweaks
+Description: تحكم كامل في البار العلوي
+Depiction: https://5boosh.com/depictions/?p=test36
+Author: niceios
+Installed-Size: 16516
+Name: NiceBarX(iOS13)
+Sponsor: niceios
+
+Package: com.5boosh.shake2toggle
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: mobilesubstrate, applist
+Filename: ./debs/com.5boosh.shake2toggle_1.0_iphoneos-arm.deb
+Size: 117152
+MD5sum: ba1c6688fe09b435a0db236bbb8e95d4
+SHA1: d54c80ac1e64a395d8c290acb245f5e5126d60c7
+SHA256: 4e4e7481dd96ad97fc03115f7cdcfab0a4dd2a43cb62484bb285fb4f02e54a4a
+Section: Tweaks
+Description: تحديد اختصار عند هز الايفون يتم تفعيله
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://5boosh.com/depictions/?p=test37
+Icon: https://alexpng.github.io/depictions/com.alexpng.shake2toggle/DebIcon.png
+Installed-Size: 572
+Name: Shake2Toggle
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.shake2toggle/shake2toggle.json
+
+Package: com.5boosh.swipeselection
+Version: 1.5.2-1
+Architecture: iphoneos-arm
+Maintainer: Bigboss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0)
+Filename: ./debs/com.5boosh.swipeselection_1.5.2-1_iphoneos-arm.deb
+Size: 15144
+MD5sum: ea0e6280362ea9c20f320c54921375d5
+SHA1: de9dc8ac8ca22ea026a9df0af676adc512c78d8b
+SHA256: df46abef1f965443b0c75e9d12963b9a2bbd06bd3ca7396c03741f603375d908
+Section: Tweaks
+Description: تحويل الكيبورد الى ماوس والتنقل بين الكلمات والأحرف بسهولة وأكثر
+Author: iKy1e (Kyle Howells) <freerunnering+SwipeSelection@gmail.com>
+Depiction: https://5boosh.com/depictions/?p=test38
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipeselectionDp
+Icon: file:///Library/PreferenceBundles/SwipeSelectionPro.bundle/SwipeSelectionPro@2x.png
+Installed-Size: 132
+Name: SwipeSelection
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+dev: freerunnering
+
+Package: com.5boosh.tempspawn
+Version: 1.0.6-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, applist, com.cokepokes.libnotifications, preferenceloader, firmware (>= 12.0), cy+cpu.arm64 | cy+cpu.arm64e
+Filename: ./debs/com.5boosh.tempspawn_1.0.6-1_iphoneos-arm.deb
+Size: 39386
+MD5sum: db08aab1e887e8996f53df67c6dbd151
+SHA1: db67e324d5ee5f807be60240142ba859d1092871
+SHA256: 82f27cb83ef054c3409a53cff4b6cd26ab6d73e815700fc03487996a49427111
+Section: Tweaks
+Description: اغلاق التطبيقات التي تعمل في الخلفية بعد 30 ثانية بعد الخروج منها
+Author: Travis Roman <travis@toggleable.com>
+Depiction: https://5boosh.com/depictions/?p=test39
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=temporarybackgroundspawnDp
+Icon: file:///Library/PreferenceBundles/TempSpawnPreferences.bundle/icon@2x.png
+Installed-Size: 310
+Name: Temporary Background Spawn
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+dev: travisroman
+
+Package: com.5boosh.twicol
+Version: 1.0-7
+Architecture: iphoneos-arm
+Maintainer: ahmedmakls
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap, org.thebigboss.libcolorpicker
+Filename: ./debs/com.5boosh.twicol_1.0-7_iphoneos-arm.deb
+Size: 1912130
+MD5sum: 20a143195fe7d41482e6ebd2cd518bbe
+SHA1: 3035713e36af58b59df1df269f94cbafc3b4353d
+SHA256: c10535faa3dd5db7aaa60937e037e4bbef183d302f53cc6af75b6946bff87376
+Section: Tweaks
+Depiction: https://5boosh.com/depictions/?p=test40
+Description: تخصيص الوان لتطبيق تويتر
+Author: ahmedmakls
+Installed-Size: 2676
+Name: TwiCol
+Priority: optional
+dev: ahmedmakls
+
+Package: com.5boosh.userspacerebootmodule
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.5boosh.userspacerebootmodule_1.0.1_iphoneos-arm.deb
+Size: 19842
+MD5sum: 3f39fa89298c4c577a6bc11097e19ea7
+SHA1: 192bd985ed130b0d4a2bc39b3326e0cea6a648ad
+SHA256: 7cfbfffea6d8619ddc27db6e3f12c6f0fba002edfbfd2d33684cc3b0c8ce7f78
+Section: Control Center (Modules)
+Description: اغلاق الايفون بشكل كامل ثم اعادة تشغيلة وتفعيل الجيلبريك تلقائي
+Depiction: https://5boosh.com/depictions/?p=test41
+Author: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 292
+Name: UserSpaceRebootModule
+
+Package: me.5boosh.transparentnotif
+Version: 1.0.4.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/me.5boosh.transparentnotif_1.0.4.1_iphoneos-arm.deb
+Size: 320250
+MD5sum: 73b3cccb5286ed9270c29d1e51dd8d6d
+SHA1: 90c7b62c6ef9c5652e58ddb06c34c8e92936ce45
+SHA256: 9e58a7f4c59a74f45059aee3afc29bc87dd0d39f8c4aa684886bc05ec8c216d5
+Section: Tweaks
+Description: تجعل الاشعارات شفافة في شاشة القفل والبار العلوي
+Author: Lightmann <lightmanns11@gmail.com>
+Depiction: https://5boosh.com/depictions/?p=test42
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=transparentnotifDp
+Icon: file:///Library/PreferenceBundles/TransparentNotifPrefs.bundle/icon@2x.png
+Installed-Size: 626
+Name: TransparentNotif
+Priority: optional
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+dev: lightmann
+
+Package: net.5boosh.lynx
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Maintainer: Classic <myclassic.ne>
+Depends: mobilesubstrate, ws.hbang.common, com.rpetrich.rocketbootstrap, applist, org.5boosh.libcolorpicker
+Filename: ./debs/net.5boosh.lynx_1.2.3-1_iphoneos-arm.deb
+Size: 575762
+MD5sum: a0dbf13ed18e80c1c03d705f3487c822
+SHA1: f6a37742d620941e6a67842e86e949e5cffc2d0b
+SHA256: 88c1ea6e4e2658c752187a1374854c6489913d2a953fc3fd30a3604ba5074333
+Section: Tweaks
+Depiction: https://5boosh.com/depictions/?p=test43
+Description: تمنحك العديد من الخيارات وتحكم شبه كامل بالجهاز
+Author: MTAC <mtactheming@gmail.com>
+Installed-Size: 1145
+Name: Lynx
+
+Package: ru.5boosh.cconandoff
+Version: 0.0.1.1
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc, ru.rejail.realcc
+Filename: ./debs/ru.5boosh.cconandoff_0.0.1.1_iphoneos-arm.deb
+Size: 6056
+MD5sum: 9eca5751f5e6f05f068a5d7f6cf8bd85
+SHA1: d8a6962535f57875398bfae12fbfda52d6ebb2ee
+SHA256: 2e2dfcf4b63f767f5cb9cd31731b57ae23d3cecf8d344765b3f63d2fc7b1e438
+Section: Tweaks
+Description: اطفاء الوايفاي والبلوتوث بشكل كلي من مركز التحكم
+Author: PoomSmart
+Depiction: https://5boosh.com/depictions/?p=test44
+Installed-Size: 129
+Name: CC On & Off
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=cconandoff
+
+Package: com.5boosh.addsource
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.5boosh.addsource_2.3.1_iphoneos-arm.deb
+Size: 77860
+MD5sum: 31a5f527cbba5a1feb6df234a6a7efab
+SHA1: d879de6299e7e783b73ee985f8c5750d2d5f9e9b
+SHA256: 8e468654e7824bef7d0a1cff8e1bde0e7a58f609748d29e071c19c67fa41d48d
+Section: Tweaks
+Description: مميزات لسيديا مثل اضافة اكثر من سورس دفعة واحدة
+Author: yuosaf01 & 3bod_syr <3body373737@gmail.com>
+Depiction: https://5boosh.com/depictions/?p=test45
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=addsourceDp
+Installed-Size: 565
+Name: addsource
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: yuosaf01
+
+Package: com.5boosh.ipadbar13
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.5boosh.ipadbar13_1.1.1_iphoneos-arm.deb
+Size: 50134
+MD5sum: a08307b87a7e95182f334696736c0e7e
+SHA1: 595d10fe276ddec5fce8e27fa17c23d62441a3d7
+SHA256: 563bdfde37b5edb75442340ed53e5830c2921e4a5a130a9cf97575faf8392b28
+Section: Tweaks
+Description: شريط الحالة رائع
+Author: AohuiLiu <x345242281@outlook.com>
+Depiction: https://5boosh.com/depictions/?p=test46
+Installed-Size: 292
+Name: iPadBar13
+
+Package: com.5boosh.waqt
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.5boosh.waqt_1.0.2_iphoneos-arm.deb
+Size: 33960
+MD5sum: faa35013388a2e6032e5ebfb2f3af7bc
+SHA1: 8c9636e5beb6d1b1dd328665a6918e502ad75876
+SHA256: 257cf6ce6c65d335ccd1b633f4b3b61440183e168406a7ac19f044729a7af792
+Section: Tweaks
+Description: تغير طريقة عرض وحجم الساعة واضافة التاريخ اسفل الساعة
+Depiction: https://5boosh.com/depictions/?p=test47
+Author: P2KDev <p2kdev@gmail.com>
+Installed-Size: 368
+Name: Waqt
+
+Package: me.5boosh.axon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Baw Appie
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.5boosh.axon_1.0_iphoneos-arm.deb
+Size: 192176
+MD5sum: 83565aa33915875a3ebfdf1915cd79d4
+SHA1: 863da1f8206b4a96d1266770cc7caa20ca0b8383
+SHA256: 9c5e8c550ddd489355e5ed46eaa8850466e194593f9cfa6675c1df945ca63ab8
+Section: Tweaks
+Description: 3D Touch عرض الإشعارات ع شاشة القفل بشكل جميل وتدعم
+Author: Nepeta & Baw Appie
+Depiction: https://5boosh.com/depictions/?p=test48
+Installed-Size: 576
+Name: Axon
+
+Package: ru.5boosh.androidl
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Filename: ./debs/ru.5boosh.androidl_1.0_iphoneos-arm.deb
+Size: 287880
+MD5sum: 336d57591317e5158bc523ce8b5d5fd8
+SHA1: b016fd67953dd9db7b0f7e1409979a6e67a47509
+SHA256: 904e279fa01216f9332c8f517a72e6b7cf1a76f572b3d60fd5784917976c2f8e
+Section: Widgets
+Description: ويدجت جميل لشاشة القفل
+Author: ReJail <rejail@rejail.ru>
+Depiction: https://5boosh.com/depictions/?p=test49
+Installed-Size: 559
+Name: AndroidL Wigdet
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=androidl
+
+Package: ru.5boosh.nougat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
+Filename: ./debs/ru.5boosh.nougat_1.0_iphoneos-arm.deb
+Size: 1349214
+MD5sum: 422e871e026347d2a2a98aaa6c29bd8d
+SHA1: 2f6be92bf73671ccef69dcbf83dfba9aa4da407a
+SHA256: dea86b96ac8cf509f3e16c275fa7b8ceac8b832fff52c8ca445e191ae7e7c986
+Section: Tweaks
+Description: تغيير شكل الاشعارات و مركز التحكم مثل نظام الاندرويد
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Depiction: https://5boosh.com/depictions/?p=test50
+Icon: https://chariz.com/cdn/icon/nougat/icon@3x.png
+Installed-Size: 5255
+Name: Nougat
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=nougat
+
+Package: com.5boosh.libsparkcolourpicker
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends:
+Filename: ./debs/com.5boosh.libsparkcolourpicker_1.0.0_iphoneos-arm.deb
+Size: 122016
+MD5sum: de69d550e0ec2f4e66c4fbb726745dc6
+SHA1: bb6f7a6c8f8c232e06735ffede0ee36058a3bf61
+SHA256: 40ef9cfe5cc7335ae894d0616aea5ba8500dcfd1d861cc066f8b941af6c65479
+Section: System
+Description:
+Author: 5boosh
+Depiction: https://5boosh.com/depictions/?p=test51
+Installed-Size: 424
+Name: libsparkcolourpicker
+Tag: role::developer
+
+Package: com.5boosh.statusbarmix
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: mostafa
+Depends: mobilesubstrate, preferenceloader, com.5boosh.libsparkcolourpicker
+Filename: ./debs/com.5boosh.statusbarmix_2.3.1_iphoneos-arm (1).deb
+Size: 571126
+MD5sum: 7099f5737210995ecfc62e6179996e64
+SHA1: b4d16b64c6e183af6b8e9c559986d031ab892dc4
+SHA256: 831c111d560936c59a95ed82e8e273f43654371c8e671f60ecb52f39a749905b
+Section: Tweaks
+Depiction: https://5boosh.com/depictions/?p=test52
+Description: تغيير الوان البار العلوي البطارية والساعه الخ..
+Author: mostafa
+Installed-Size: 964
+Name: Statusbar Mix
+
+Package: com.5boosh.corona-status
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Cole <imbypass.pw@gmail.com>
+Depends: com.matchstic.xenhtml
+Filename: ./debs/com.5boosh.corona-status_1.3_iphoneos-arm.deb
+Size: 129818
+MD5sum: c5bcb0e145b853fc0d6d1119390161c1
+SHA1: ecc1890d068d2f2a67ca70fbf67e14e71d6bc9fb
+SHA256: e9a09c1e2f941a1f7603faf4369efd410a85576c46e3f1a2235b0687b481a923
+Section: Widgets
+Description: ويدجت احصائيات كورونا مع امكانيه تحديد الدولة
+Author: Cole <imbypass.pw@gmail.com>
+Depiction: https://5boosh.com/depictions/?p=test53
+Name: Corona Status
+Tag: compatible_min::ios9.0, compatible_max::ios13.3
+
+Package: com.5boosh.covid-19-stats
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: AussieAppz <info@aussieappz.com>
+Depends: com.matchstic.xenhtml
+Filename: ./debs/com.5boosh.covid-19-stats_1.8_iphoneos-arm.deb
+Size: 6128
+MD5sum: f11cc425b2fbbc805d8cbe99edf38312
+SHA1: 917efaaf98ae2f423e76234998e30c3159c78868
+SHA256: 3f2b499deb934004b3c29e41f2454d33abaa6e3e7040156a704ca022e3396042
+Section: Widgets
+Description: احصائيات كورونا في بلدك والعالم
+Author: AussieAppz <info@aussieappz.com>
+Depiction: https://5boosh.com/depictions/?p=test54
+Name: Covid 19 Stats
+Tag: compatible_min::ios5.1, compatible_max::ios13.3
+
+Package: org.5boosh.libcolorpicker
+Version: 1.6.7
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000)
+Replaces: me.nepeta.libcolorpicker
+Filename: ./debs/org.5boosh.libcolorpicker_1.6.7_iphoneos-arm.deb
+Size: 191476
+MD5sum: e4307397f28640b0f05f93d45997cc62
+SHA1: 882ae1f2b277ab9428f6a01de600b8fde33d9b0b
+SHA256: 1569dab389bfecbf546f9e7d22ba545ab7e095780716aa62698ae47919c5dc3c
+Section: Development
+Description: color picker library for developers
+Author: PixelFire <pixelfiredev@helpful.io>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickerDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickerDp
+Installed-Size: 622
+Name: libcolorpicker
+Priority: optional
+Provides: me.nepeta.libcolorpicker
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::library, role::developer, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, cydia::obsolete
+dev: pixelfiredev
+
+Package: com.5boosh.otadisabler
+Version: 0.1-7
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debs/com.5boosh.otadisabler_0.1-7_iphoneos-arm.deb
+Size: 28992
+MD5sum: 14bdc0b956f1e2ce0c842e6d4aa5bba6
+SHA1: c47d4ebb8db4e7a9cafed5db8b3fe67f8501793f
+SHA256: 6119a28ff726e80598a6b829860239c37397ccb735714b9f0b242f174589fa96
+Section: System
+Description: ايقاف تحديثات الايفون
+Author: ichitaso
+Depiction: https://5boosh.com/depictions/?p=test55
+Installed-Size: 200
+Name: OTADisabler
+
+Package: com.5boosh.coolcc
+Version: 1:3.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
+Filename: ./debs/com.5boosh.coolcc_1_3.1_iphoneos-arm.deb
+Size: 206808
+MD5sum: 9d5b65a84624c9a0f11afd8045a8f76b
+SHA1: bb026fb3cea406ccd9465f7a09c0524066fde898
+SHA256: 0ef7aa5d762d0f42cf62aa6ea122dfaf5c7aefc99da6361d132edb4be35a2f56
+Section: Tweaks
+Description: مظهر جميل لمركز التحكم مع امكانية تخصيص لون حدود الإختصارات
+Author: 4nni3 <4nni3.14@gmail.com>
+Depiction: https://5boosh.com/depictions/?p=test56
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=coolccDp
+Icon: file:///Library/PreferenceBundles/CoolCCPref.bundle/icon@2x.png
+Installed-Size: 566
+Name: CoolCC
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+dev: 4nni3
+
+Package: com.5boosh.libcspreferences
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Filename: ./debs/com.5boosh.libcspreferences_1.3.4_iphoneos-arm.deb
+Size: 1410202
+MD5sum: d6c39d0e649a6f08ce5ec3832148d77b
+SHA1: 35517caedc09171c6c2b2fd19156d4b9686f1ff8
+SHA256: 17656dc4723874122780bfc1b6e419665b2e84d94d34849e59bed00a3e8faba6
+Section: System
+Description: A Preference Library that doesn't suck!
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
+Homepage: https://creaturecoding.com/
+Installed-Size: 4952
+Name: libCSPreferences
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate, preferenceloader
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+Tag: compatible_min::iosiOS9
+
+Package: com.5boosh.shuffle
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Depends: com.5boosh.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.5boosh.shuffle_1.1.deb
+Size: 343782
+MD5sum: f2bcc3af482472923d9e0b843299f27d
+SHA1: f82952b07835105f0c2c521d4600738113d4d71a
+SHA256: 11de1d658b34f22fd2a67911cd29dc30d52faccb77a2382315d9079897e2b2f3
+Section: Tweaks
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Installed-Size: 1600
+Description: ترتيب وتنظيم الادوات في الاعدادات
+Name: shuffle
+Depiction: https://5boosh.com/depictions/?p=test57
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Tag: purpose::extension, compatible_min::iosiOS10
+
+Package: me.5boosh.unsub
+Version: 0.1.9
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
+Filename: ./debs/me.5boosh.unsub_0.1.9_iphoneos-arm.deb
+Size: 73440
+MD5sum: e06a1919a83de56bb0e540d9e8faf110
+SHA1: d7320e3123ca16036411c42085767a8b310669ee
+SHA256: 9977a3766083f0c55ea52a43460bc71535467957d40779c3b100878d35efcc06
+Section: Tweaks
+Depiction: https://5boosh.com/depictions/?p=test58
+Description: أخفاء الجلبريك عن التطبيقات
+Author: Nepeta
+Installed-Size: 624
+Name: UnSub
+
+Package: online.5boosh.free
+Version: 1.7.1Do
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
+Filename: ./debs/online.5boosh.free_1.7.1Do_iphoneos-arm.deb
+Size: 6120688
+MD5sum: 64c4f082af08deb1bbd5e586809534ef
+SHA1: fcd5d135793de49a3fddeafaf88ebfc4c66ae459
+SHA256: 215f43d9ad0021162158a148fe468520282368ab501f017f28a887650d43ba98
+Section: IOS13
+Description: SnapBreakDo
+Author: 5boosh
+Depiction: https://5boosh.com/depictions/?p=test59
+Name: SnapBreakDo
+
+Package: com.5boosh.eztweaklist
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: firmware (>=9.0), mobilesubstrate, dpkg, cydia
+Filename: ./debs/com.5boosh.eztweaklist_1.0.1-1_iphoneos-arm.deb
+Size: 24308
+MD5sum: 90eb7ac7268fec8a76ab8fe6c7473993
+SHA1: f9127e06e54b110b17ac098f2c59882600061eed
+SHA256: 9f0dc7a2967b4124429bd660c1cad7cb01275a558a361e0417b7553b78e71ded
+Section: Addons
+Description: مشاركة الادوات/التطبيقات المثبتة من السيديا مع الاخرين بطريقة سهلة
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://5boosh.com/depictions/?p=test60
+Dev: TheComputerWhisperer
+Installed-Size: 140
+Name: EZTweakList
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+
+Package: com.5boosh.lockpluspro
+Version: 1.8.6
+Architecture: iphoneos-arm
+Maintainer: June <junesgraphics@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.d11z.textyle, jp.akusio.milkyway, jp.akusio.milkyway2
+Filename: ./debs/com.5boosh.lockpluspro_1.8.6_iphoneos-arm.deb
+Size: 19268482
+MD5sum: 79a38b952c64bce69aac6bd524d32918
+SHA1: 56f672e129a8ee50f3b377298b89c8359f445128
+SHA256: 8f9ccc4bc8feb2cd7abdd2bb3421af067406983d107037f590dd3b199ee53666
+Section: Addons (Tweaks)
+Description: تغيير شكل شاشة القفل عن طريق عدة قوالب رائعة مختارة
+Depiction: https://5boosh.com/depictions/?p=test61
+Author: JunesiPhone <junesgraphics@gmail.com>
+Installed-Size: 43960
+Name: LockPlus Pro
+
+Package: com.5boosh.tetherme8
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debs/com.5boosh.tetherme8_1.2.3_iphoneos-arm.deb
+Size: 206202
+MD5sum: 48fbda794b0cf2839b1e9282aa1fd154
+SHA1: 63431e09b78df2b2322053649cf2873fe392000e
+SHA256: c8c6e86bd4d8238fb970a1c2ea696b859b1c839875b9ca3c2bf911153e31f468
+Section: Tweaks
+Description: تحويل الجهاز إلى راوتر بكامل المميزات عند فتح نقطة اتصال شخصية
+Depiction: https://5boosh.com/depictions/?p=test62
+Author: Sam Bingner <support@tetherme.net>
+Installed-Size: 2300
+Name: TetherMe for iOS 8+
+
+Package: com.5boosh.xenhtml
+Version: 1.1.5~release
+Architecture: iphoneos-arm
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Filename: ./debs/com.5boosh.xenhtml_1.1.5_release_iphoneos-arm.deb
+Size: 2911428
+MD5sum: a6e2599e488b986397d70f7ad440878b
+SHA1: bb8a0f3095bc837064ff27b4edcd0ea2190e848a
+SHA256: c4a3992b4ac6ed82328fa5d4620a9df99767f2615b98911e8ef66ab201915f17
+Section: System
+Description: تركيب الويدجات على الجهاز
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: https://5boosh.com/depictions/?p=test63
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Name: Xen HTML
+Priority: optional
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+SileoDepiction: https://xenpublic.incendo.ws/sileo/com.matchstic.xenhtml.json
+dev: Matt Clarke <matt@incendo.ws>
+
+Package: com.5boosh.ytplus
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Mudi
+Depends: mobilesubstrate, firmware (>=12.0), ws.hbang.common, co.azozzalfiras.azflibrary
+Filename: ./debs/com.5boosh.ytplus_2.1_iphoneos-arm.deb
+Size: 159968
+MD5sum: c5b1c55fb1a5019ba2869c888d9ef1a4
+SHA1: a5b46966a3f44cdd4a2be8e6393a73dc6c80f0bf
+SHA256: a87a6a4e60a9ee1b3df292aeb3fdbc002cde499a90e78f5f88b30baeb6d20c6d
+Section: Tweaks
+Depiction: https://5boosh.com/depictions/?p=test64
+Description: اضافة مميزات لتطبيق اليويتوب
+Author: Mudi47
+Installed-Size: 620
+Name: YTplus
+
+Package: jp.5boosh.backgrounderaction13
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/jp.5boosh.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 20390
+MD5sum: 9cbee1256ee8907e2188225b7cda6846
+SHA1: 65596656f6e7df95a7ae7f99ce954f88de626546
+SHA256: 4cdd3e751a281cb9ecccedb69e8ea23df2623bbfbdd5159c036c9f386cea59fa
+Section: Tweaks
+Description: تشغيل اي مقطع فيديو او صوت في الجهاز في الخلفية
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://5boosh.com/depictions/?p=test65
+Installed-Size: 244
+Name: BackgrounderAction2 for CCSupport
+
+Package: ca.5boosh.faceidforhiddenphotos
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Menushka Weeratunga
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/ca.5boosh.faceidforhiddenphotos_1.0.1_iphoneos-arm.deb
+Size: 8172
+MD5sum: 82a088a3828ba9488b9acd92ffaacfe8
+SHA1: 2331c3c97ec1279440f3c6de37a2225f78bbb949
+SHA256: 258ae298e9c0cb044267da5aea062fec539ede3dd9ab828ed7363095cb83afa5
+Section: Tweaks
+Description: قفل المجلد المخفية في البوم الصور ببصمة الوجه
+Author: Menushka Weeratunga
+Depiction: https://5boosh.com/depictions/?p=test66
+Homepage: https://menushka.ca
+Icon: https://repo.menushka.ca/assets/ca.menushka.faceidforhiddenphotos/icon.png
+Installed-Size: 200
+Name: FaceID For Hidden Photos
+
+Package: ca.5boosh.hideyourapps
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: Menushka Weeratunga
+Depends: mobilesubstrate, applist, ws.hbang.common (>= 1.13), ca.menushka.menushkaprefs
+Filename: ./debs/ca.5boosh.hideyourapps_1.3.0_iphoneos-arm.deb
+Size: 36870
+MD5sum: 38433ae63eecba2e22f6ab882045f7eb
+SHA1: 388fa6efc1cf90dca78f25ef8e3a3b2ad52757c4
+SHA256: 8515a4693048a5c75cd22a48de1effd8369dcb02a2c5f66d76c13669306269b4
+Section: Tweaks
+Description: اخفاء اي تطبيق من الشاشة الرئيسية
+Author: Menushka Weeratunga and Blake Boxberger
+Depiction: https://5boosh.com/depictions/?p=test67
+Icon: https://repo.menushka.ca/assets/ca.menushka.hideyourapps/icon.png
+Installed-Size: 328
+Name: HideYourApps
+
+Package: com.5boosh.appaze2
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0), com.a3tweaks.flipswitch (>= 1.0.16~beta5)
+Filename: ./debs/com.5boosh.appaze2_1.1_iphoneos-arm.deb
+Size: 793846
+MD5sum: 6062b9fc35e7b6933b655f9006eb66bf
+SHA1: c7a8aba385d28a00a4c29e18a726cb02ff2b6f21
+SHA256: 061b5ea78cc789b6e9db3336c5e4933d39b5ec12af0cc6221b950515e63558c5
+Section: Tweaks
+Depiction: https://5boosh.com/depictions/?p=test68
+Description: تعيين إعدادات مخصصة تتفعل تلقائيا عند فتح التطبيق
+Author: AnthoPak <anthopakdev@gmail.com>
+Installed-Size: 1364
+Name: Appaze 2
+
+Package: com.5boosh.complications
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Ben Giannis
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), applist, com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
+Filename: ./debs/com.5boosh.complications_2.2_iphoneos-arm.deb
+Size: 593990
+MD5sum: 9f4bb3ace640a6ddca9f9747250dfc20
+SHA1: 0d5bf894d8f4f52952ea610d46911a59ca10b6c9
+SHA256: b52a13a8b839e4b227d2be4353ffc519c0fce6b93b8ea622ea0ce3102f702de5
+Section: Tweaks
+Depiction: https://5boosh.com/depictions/?p=test69
+Description: عمل اختصارات على شاشة القفل بشكل جميل شبيه بأيقونات ساعة ابل
+Author: Ben Giannis
+Installed-Size: 1780
+Name: Complications
+
+Package: com.5boosh.PullOverPro
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Filename: ./debs/com.5boosh.PullOverPro_2.1_iphoneos-arm.deb
+Size: 1859300
+MD5sum: 061d2c13250ee4dff98d2c9a0e75c900
+SHA1: 7f78e72bf88d48f291bc6fdf4144190326133050
+SHA256: 1b11d3594c0d097db006d3e2618e4349abc1042c9944dd22222df3c41b8eae28
+Section: Tweaks
+Author: c1d3r
+Description: تخصيص تطبيقات يتم فتحها على الشاشة على شكل نوافذ بطريقة أنيقة
+Depiction: https://5boosh.com/depictions/?p=test70
+Name: PullOver Pro
+Priority: optional
+Sponsor: 5boosh

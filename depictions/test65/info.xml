@@ -1,0 +1,17 @@
+<package>
+	<id>jp.5boosh.backgrounderaction13</id>
+	<name>BackgrounderAction2 for CCSupport</name>
+	<version>0.1.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description></description>
+		<description>Supports iOS 13.0 - 13.3</description>
+	</descriptionlist>
+</package>

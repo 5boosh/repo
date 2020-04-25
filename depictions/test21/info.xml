@@ -1,0 +1,17 @@
+<package>
+	<id>ca.5boosh.voltage</id>
+	<name>Eyeplugs</name>
+	<version>1.6.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description></description>
+		<description>Supports iOS 10.0 - 13.3</description>
+	</descriptionlist>
+</package>

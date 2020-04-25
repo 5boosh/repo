@@ -1,0 +1,17 @@
+<package>
+	<id>com.5boosh.xenhtml</id>
+	<name>Xen HTML</name>
+	<version>1.1.5~release</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description></description>
+		<description>Supports iOS 9.0 - 13.3</description>
+	</descriptionlist>
+</package>

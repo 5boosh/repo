@@ -1,0 +1,17 @@
+<package>
+	<id>ca.5boosh.hideyourapps</id>
+	<name>HideYourApps</name>
+	<version>1.3.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>اخفاء تطبيقات من شاشة الرئيسية وتظهر عن طريق البحث وارجاع التطبيق من اعدادات الاداه او حدف التطبيق من الاداه</description>
+		<description>Supports iOS 11.0 - 13.3</description>
+	</descriptionlist>
+</package>

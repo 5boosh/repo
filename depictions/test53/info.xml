@@ -1,0 +1,17 @@
+<package>
+	<id>com.5boosh.corona-status</id>
+	<name>Corona Status</name>
+	<version>1.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>ويدجت احصائيات كورونا مع امكانيه تحديد الدولة</description>
+		<description>Supports iOS 9.0 - 13.3</description>
+	</descriptionlist>
+</package>

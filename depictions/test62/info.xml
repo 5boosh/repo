@@ -1,0 +1,17 @@
+<package>
+	<id>com.5boosh.tetherme8</id>
+	<name>TetherMe for iOS 8+</name>
+	<version>1.2.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description></description>
+		<description>Supports iOS 8.0 - 13.3</description>
+	</descriptionlist>
+</package>

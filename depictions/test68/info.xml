@@ -1,0 +1,17 @@
+<package>
+	<id>com.5boosh.appaze2</id>
+	<name>Appaze 2</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>وظيفتها تنفيذ اومر عند الدخول الى التطبيقات مثلاً: اذا دخلت الواتساب يفعلك الوضع النهاري ويقفل البيانات الخلوية ويشبك على الواي فاي </description>
+		<description>Supports iOS 11.0 - 13.3</description>
+	</descriptionlist>
+</package>
