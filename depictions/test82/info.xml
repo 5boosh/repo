@@ -1,0 +1,17 @@
+<package>
+	<id>com.5boosh.Shahidpro</id>
+	<name>Shahid</name>
+	<version>0.0.1-2+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>باتش تطبيق شاهد لإيقاف الاعلانات</description>
+		<description>Supports iOS 10.0 - 13.3</description>
+	</descriptionlist>
+</package>

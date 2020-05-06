@@ -1,0 +1,17 @@
+<package>
+	<id>com.5boosh.nothanks</id>
+	<name>BoardBanner13 (iOS 12~13)</name>
+	<version>2.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>طريقة راقية لعرض شعارات الإشعارات على أجهزة الاكس وأحدث</description>
+		<description>Supports iOS 12.0 - 13.3</description>
+	</descriptionlist>
+</package>

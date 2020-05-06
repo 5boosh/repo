@@ -1,0 +1,17 @@
+<package>
+	<id>com.5boosh.instaonmonitor</id>
+	<name>InstaOnlineMonitor</name>
+	<version>0.2-24</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>مراقبة وتتبع شخص او اشخاص في تطبيق الانستقرام تعطيك اشعار عند دخول مستخدم معين او عند خروجة من التطبيق وتجميعم في قايمة داخل الانسقترام</description>
+		<description>Supports iOS 9.0 - 13.3</description>
+	</descriptionlist>
+</package>

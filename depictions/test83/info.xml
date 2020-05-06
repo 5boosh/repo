@@ -1,0 +1,17 @@
+<package>
+	<id>co.5boosh.whatsapprevael</id>
+	<name>Whatsapp Revael</name>
+	<version>8.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>أداة خرافية تعطيك الكثير من المميزات في تطبيق الواتساب</description>
+		<description>Supports iOS 9.0 - 13.3</description>
+	</descriptionlist>
+</package>

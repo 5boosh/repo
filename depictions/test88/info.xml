@@ -1,0 +1,17 @@
+<package>
+	<id>ar.5boosh.prysm</id>
+	<name>Prysm</name>
+	<version>1.7.4k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description> تغيير مركز التحكم </description>
+		<description>Supports iOS 13.0 - 13.3</description>
+	</descriptionlist>
+</package>

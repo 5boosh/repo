@@ -1,0 +1,17 @@
+<package>
+	<id>com.5boosh.apptools</id>
+	<name>AppTools</name>
+	<version>1.8.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>خيارات عدة تظهر عند سحب أيقونة التطبيق لأعلى/لأسفل مثل عرض ملفات التطبيق في Filza، إعادة تهيئة التطبيق، إعادة تسمية التطبيق، إزالة شارة الإشعارات، والكثير</description>
+		<description>Supports iOS 10.0 - 13.3</description>
+	</descriptionlist>
+</package>

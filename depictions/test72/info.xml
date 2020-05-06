@@ -1,0 +1,17 @@
+<package>
+	<id>com.5boosh.batteryx</id>
+	<name>BatteryPercentageX</name>
+	<version>0.0.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>اداة لإظهار النسبة المئوية داخل البطارية في ايفون X,XS, XS Max,XR وتدعم اللغة العربية مع إمكانية تغير اسم شبكة الجوال</description>
+		<description>Supports iOS 12.0 - 13.3</description>
+	</descriptionlist>
+</package>

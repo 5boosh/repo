@@ -1,0 +1,17 @@
+<package>
+	<id>ru.5boosh.scorpion</id>
+	<name>Scorpion</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description> تمكنك من الرد على المكالمات اثناء فتح التطبيقات والاستمرار في استخدام الجهاز </description>
+		<description>Supports iOS 13.0 - 13.3</description>
+	</descriptionlist>
+</package>

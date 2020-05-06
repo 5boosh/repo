@@ -1,0 +1,17 @@
+<package>
+	<id>com.5boosh.nicepower</id>
+	<name>NicePower(iOS11-iOS13)</name>
+	<version>1.0.0.7-3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>وضع شفافية خلف الرموز مع تلوينها امكانية تحديد المكان في البار العلوي عرض رمز بطارية السماعة عرض رمز بطارية الساعة عرض رمز بطارية الجهاز</description>
+		<description>Supports iOS 11.0 - 13.3</description>
+	</descriptionlist>
+</package>

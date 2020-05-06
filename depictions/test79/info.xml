@@ -1,0 +1,17 @@
+<package>
+	<id>com.5boosh.rofi</id>
+	<name>Rofi</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>اضافة شريط في الشاشة واضافة اختصار تطبيقات داخل وفتحها في اي مكان في الجهاز مع امكانية تصميم الشريط ونقله من اليسار للمين والعكس بمجرد التعليق عليه لفترة</description>
+		<description>Supports iOS 12.0 - 13.3</description>
+	</descriptionlist>
+</package>

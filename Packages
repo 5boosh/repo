@@ -1297,3 +1297,346 @@ Depiction: https://5boosh.com/depictions/?p=test70
 Name: PullOver Pro
 Priority: optional
 Sponsor: 5boosh
+
+Package: com.5boosh.apptools
+Version: 1.8.0
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.5boosh.apptools_1.8.0_iphoneos-arm.deb
+Size: 2188180
+MD5sum: d7db25fe4c573c094b16b4260bf1a403
+SHA1: 285a4ec6c7d393ea10b546c1f148f89cdf5dcdab
+SHA256: 53570e7a3a9dfc3fddd224cb59da84bed5ecc9d125008ae5628e7238ec086ec3
+Section: Tweaks
+Description: خيارات عدة تظهر عند سحب أيقونة التطبيق لأعلى/لأسفل
+Author: aReo <minikissbye@foxmail.com>
+Depiction: https://5boosh.com/depictions/?p=test71
+Icon: file:///Library/PreferenceBundles/AppTools.bundle/icon@2x.png
+Installed-Size: 4712
+Name: AppTools
+Sponsor: 5boosh
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: areo
+
+Package: com.5boosh.batteryx
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: ichitaso <willfeeltips+btx@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.spark.batterypercentx, com.dpkg.batterypercent12, com.dpkg.batterypercenta12, com.dpkg.arkrome, com.dpkg.arkromepro, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.neinzedd9.bazzi
+Replaces: com.ichitaso.batteryx
+Filename: ./debs/com.5boosh.batteryx_0.0.4_iphoneos-arm.deb
+Size: 67642
+MD5sum: 239ae7e9e8156b87bb0611d65cf3da27
+SHA1: 9b841690cee6e579845051ce24d5f49f5a4441f2
+SHA256: 6db728f659926d464c443c68f208c3b3f9c86af6248424b4962e752e622e2b56
+Section: Tweaks
+Description: اداة لإظهار النسبة المئوية داخل البطارية
+Author: ichitaso <willfeeltips+btx@gmail.com>
+Depiction: https://5boosh.com/depictions/?p=test72
+Icon: file:///Library/PreferenceBundles/BatteryPercentageX.bundle/icon@2x.png
+Installed-Size: 340
+Name: BatteryPercentageX
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+dev: ichitaso
+
+Package: com.5boosh.ccmodulespro
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: jailbreak365 <jailbreak365@mail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.opa334.ccsupport (>= 1.2.1)
+Filename: ./debs/com.5boosh.ccmodulespro_1.1.1_iphoneos-arm.deb
+Size: 327700
+MD5sum: 1d4f6850c5bc16957c5a31e306993abc
+SHA1: 1d608f698345a5a33ec2c9437875352f7f185933
+SHA256: caf4600292bd87242fb3a6005b7a77beb211fdf03072a80116825ea4cafe6e3f
+Section: Tweaks
+Description: اضافة عناصر لمركز التحكم
+Depiction: https://5boosh.com/depictions/?p=test73
+Author: jailbreak365 <jailbreak365@mail.com>
+Installed-Size: 1496
+Name: CCModules Pro
+
+Package: com.5boosh.denyphotoalbums
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: ./debs/com.5boosh.denyphotoalbums_1.1.6_iphoneos-arm.deb
+Size: 113188
+MD5sum: 8f988ff04ee6977aeaf62eae0768ee59
+SHA1: 19291f046095d20e2df7fc20258484b15b107a26
+SHA256: 1ae0c8b841cf32441b7e3cbf767d1dbe2fd5be55d6fd537747a36327256092d1
+Section: Tweaks
+Description: إخفاء الألبومات المحددة في تطبيق الصور
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: https://5boosh.com/depictions/?p=test74
+Icon: file:///Library/PreferenceBundles/DenyPhotoAlbums.bundle/DenyPhotoAlbums@2x.png
+Installed-Size: 530
+Name: DenyPhotoAlbums
+Priority: optional
+Sponsor: 5boosh
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: lucaluca86
+
+Package: com.5boosh.instaonmonitor
+Version: 0.2-24
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-142)
+Conflicts: net.limneos.instaonlinemonitor
+Filename: ./debs/com.5boosh.instaonmonitor_0.2-24_iphoneos-arm.deb
+Size: 400278
+MD5sum: dd9325c4b4468293cdceb06d857cc960
+SHA1: 6ca3173eb051517634d3541c5c01e4b106d93302
+SHA256: 3dddb7c3c05015a3d9bf9a4f63597d1f72daf684721785118e48b901bb3e5603
+Section: Tweaks
+Description: تتبع شخص او اشخاص في تطبيق الانستقرام
+Depiction: https://5boosh.com/depictions/?p=test75
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Installed-Size: 1024
+Name: InstaOnlineMonitor
+
+Package: com.5boosh.messagefile
+Version: 0.0~beta3
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.5boosh.messagefile_0.0_beta3_iphoneos-arm.deb
+Size: 65446
+MD5sum: 8df6c68a32ca5edf38f0c13ebe1ad882
+SHA1: 7b482182c5a4b09a5111ed4a9ae523eedca1e72f
+SHA256: 29d17e13c9b3eea217cf301cc83f809c09a71f7ff263c72a91868b2d43c43419
+Section: Tweaks
+Description: إرسال أي ملف من ملفات النظام عن طريق تطبيق الرسائل
+Author: julioverne
+Depiction: https://5boosh.com/depictions/?p=test76
+Name: MessageFile
+
+Package: com.5boosh.nicepower
+Version: 1.0.0.7-3
+Architecture: iphoneos-arm
+Maintainer: niceios
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate,com.niceios.nicehelper(>=2.3)
+Filename: ./debs/com.5boosh.nicepower_1.0.0.7-3_iphoneos-arm.deb
+Size: 3091314
+MD5sum: 3f8f93d5383627dfd86d036d11cef17e
+SHA1: e7f5367b169f2d1b85e81c4d57e4a456d58deef9
+SHA256: d8d1617a35e7321a63d17ec6a9d712cbd2756fb13c538a2b9332ed1441a3827d
+Section: Tweaks
+Description: عرض ملحقات سماعة . ساعة في بار العلوي
+Depiction: https://5boosh.com/depictions/?p=test77
+Author: niceios
+Installed-Size: 11516
+Name: NicePower(iOS11-iOS13)
+Sponsor: niceios
+
+Package: com.5boosh.nothanks
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 12.0), cy+cpu.arm64
+Filename: ./debs/com.5boosh.nothanks_2.0_iphoneos-arm.deb
+Size: 65568
+MD5sum: 001c0684270d8e4636f484b0500b3fe9
+SHA1: 7b9c3df45a19f30a66c2eb429392a36c9e29f42a
+SHA256: b871b38e3191ba59146d7fa0180a72ef011d51d080fbe9c0481444a9bf2398f2
+Section: Tweaks
+Description: طريقة راقية لعرض شعارات الإشعارات على أجهزة الاكس وأحدث
+Depiction: https://5boosh.com/depictions/?p=test78
+Author: Soongyu Kwon
+Installed-Size: 328
+Name: BoardBanner13 (iOS 12~13)
+Sponsor: xRepo.co <http://xRepo.co>
+
+Package: com.5boosh.rofi
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), preferenceloader, com.spark.libsparkcolourpicker (>=0.0.26), ws.hbang.common (>= 1.11), applist
+Filename: ./debs/com.5boosh.rofi_1.0.0_iphoneos-arm.deb
+Size: 49758
+MD5sum: d630ce087827c1589d2e2a185f9de806
+SHA1: 88d858486255bad257ff19f115e15bdef8094cfe
+SHA256: 6f6e54bfe3bf1049cd8654e71d0ed0cdbd5ca88edc1474c3f5563451cbf7f526
+Section: Tweaks
+Description: اضافة شريط في الشاشه يمكنك من الوصول سريعآ الى تطبيقاتك
+Author: Kef <theonlykef@gmail.com>
+Depiction: https://5boosh.com/depictions/?p=test79
+Installed-Size: 304
+Name: Rofi
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+dev: kef
+
+Package: com.5boosh.yobunpro
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Plat-Ykor <plat-ykor@libero.it>
+Depends: mobilesubstrate
+Filename: ./debs/com.5boosh.yobunpro_2.1_iphoneos-arm.deb
+Size: 376498
+MD5sum: 810f8169b602266c97a1de1638d3ad3a
+SHA1: 73b1f61ad0a33188a8af67c89d14e1ecf788ccf4
+SHA256: 54e0879d31ba5948b7e078ca6e437d9d399da2b64f0a6a3683ab7c549a160108
+Section: Tweaks
+Description: خيارات إعادة تشغيل سريع الدخول في الوضع الآمن تحرير مساحة الذاكرة العشوائية
+Depiction: https://5boosh.com/depictions/?p=test80
+Author: Plat-Ykor <plat-ykor@libero.it>
+Installed-Size: 880
+Name: Yobun Pro
+
+Package: com.5boosh.nicepower
+Version: 1.0.0.7-3
+Architecture: iphoneos-arm
+Maintainer: niceios
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate,com.5boosh.nicehelper(>=2.3)
+Filename: ./debs/com.5boosh.nicepower_1.0.0.7-3_iphoneos-arm (1).deb
+Size: 3091316
+MD5sum: ac3c1fe0ddc03951d189872c2ff027e0
+SHA1: 6703ef36224036a4f0a989c0cd6dabe0842ca508
+SHA256: 440268269b511925ab1af9df481a4a562a492d6c4dc485a991bcf442bbe06223
+Section: Tweaks
+Description: عرض ملحقات سماعة . ساعة في بار العلوي
+Depiction: https://5boosh.com/depictions/?p=test77
+Author: niceios
+Installed-Size: 11516
+Name: NicePower(iOS11-iOS13)
+Sponsor: niceios
+
+Package: com.muirey03.libmryipc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Muirey03
+Filename: ./debs/com.muirey03.libmryipc_1.0_iphoneos-arm.deb
+Size: 12268
+MD5sum: 6957cf6c9b35f7d7bcf4920a52886442
+SHA1: 42992200cad14c69f466ccf902457636361f55c0
+SHA256: d433f62d0819c2d2e1b4a9656eea34550733f4acc612e3353b5485f4d723a7bf
+Section: System
+Description: Easy-to-use, RocketBootstrap-less iOS IPC
+Author: Muirey03
+Installed-Size: 196
+Name: libMRYIPC
+Tag: role::developer
+
+Package: com.spark.libsparkapplist
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: Spark
+Filename: ./debs/com.spark.libsparkapplist_1.0.7_iphoneos-arm.deb
+Size: 27086
+MD5sum: cef3820a7c74f2b6837c6a490977ee4a
+SHA1: 6db26017179c6ad105cfeaa43bba21f565b41e9f
+SHA256: cd25b0bae7834beb2c451b870aee68ff9a48b6ac092335be27385da54df8990f
+Section: System
+Description: AppList alternative
+Author: Spark
+Installed-Size: 468
+Name: libSparkAppList
+Tag: role::developer
+
+Package: ru.5boosh.scorpion
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libmryipc, ws.hbang.common (>= 1.11), firmware (>= 13.0), ws.hbang.alderis, com.spark.libsparkapplist
+Filename: ./debs/ru.5boosh.scorpion_1.1_iphoneos-arm.deb
+Size: 982032
+MD5sum: 4b2861c9200dda78d07637a98fc4b6cd
+SHA1: e4cc582e9ec74b44a6bb37cc16029577cfb3734f
+SHA256: 2e7ba66980604769b825c46851299eecc0bd27cc35b5398d6148d9b08d9ca443
+Section: Tweaks
+Description: تمكنك من الرد على المكالمات اثناء فتح التطبيقات والاستمرار في استخدام الجهاز
+Author: Esquilli
+Depiction: https://5boosh.com/depictions/?p=test81
+Installed-Size: 1787
+Name: Scorpion
+
+Package: com.5boosh.Shahidpro
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: @Dns_Sys
+Depends: mobilesubstrate
+Filename: ./debs/com.5boosh.Shahidpro_0.0.1-2+debug_iphoneos-arm.deb
+Size: 201456
+MD5sum: 2016b5fe17aaabd1775572d3679131af
+SHA1: 6766fc7e2d60edf8cac35389e6628e45c203493b
+SHA256: c0f792a91c9b51c2a5dee3718a6bce5b93063aef0eb5b2d52c5c71a32dba2dde
+Section: Tweaks
+Depiction: https://5boosh.com/depictions/?p=test82
+Description: باتش تطبيق شاهد لإيقاف الاعلانات
+Author: @Dns_Sys
+Installed-Size: 764
+Name: Shahid
+
+Package: co.5boosh.whatsapprevael
+Version: 8.0
+Architecture: iphoneos-arm
+Maintainer: 5boosh
+Depends: mobilesubstrate
+Filename: ./debs/co.5boosh.whatsapprevael_8.0_iphoneos-arm.deb
+Size: 979112
+MD5sum: 92fab345ec1f74406fa66ef50fcfcc7c
+SHA1: 5c41dccc11778869bb4bcd8c5c4544d656347595
+SHA256: e00a90f64f47a76aedc57a64689d469a448974134ba964e18830c1840d6181a1
+Section: Tweaks
+Description: أداة خرافية تعطيك الكثير من المميزات في تطبيق الواتساب
+Author: 5boosh
+Depiction: https://5boosh.com/depictions/?p=test83
+Installed-Size: 2612
+Name: Whatsapp Revael
+
+Package: com.5boosh.dockx
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: udevs
+Depends: mobilesubstrate, firmware(>=12.0)
+Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar
+Filename: ./debs/com.5boosh.dockx_1.0_iphoneos-arm.deb
+Size: 61298
+MD5sum: 4c96b4e866645cd795f9625d2eac67fa
+SHA1: 5bacc1967b92a04b7dc456678c37d16ca52070f5
+SHA256: fee2a36a4aa9e22b45edbc3dff20cf9e83d8d295f8f82c149ea95c6d9bfc4bdb
+Section: Tweaks
+Description: اضافة بار اسفل الكيبورد لاختصارات النسخ واللصق الخ
+Author: udevs
+Depiction: https://5boosh.com/depictions/?p=test84
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Installed-Size: 340
+Name: DockX
+
+Package: com.5boosh.socialdownloader
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: elias
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.5boosh.socialdownloader_1.2-1_iphoneos-arm.deb
+Size: 587090
+MD5sum: d534c8d62c40d4023d399188445de0c0
+SHA1: 2fb2de7583d6b6218f24b16d03eaf37a964b7722
+SHA256: 9f7f56e7dc18151c72d8b90a72927e09c24b5b81833774e816bfb30bbead9ee1
+Section: Tweaks
+Author: elias
+Depiction: https://5boosh.com/depictions/?p=test85
+Description: حفظ المقاطع والصور من تطبيقات تواصل الاجتماعي
+Installed-Size: 1744
+Name: Social Downloader
+
+Package: com.5boosh.tiktokgod
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Hao Nguyen
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
+Filename: ./debs/com.5boosh.tiktokgod_0.0.1_iphoneos-arm.deb
+Size: 50558
+MD5sum: 66b961d0c58f6e0b96dfbf97f2e22301
+SHA1: 86ae2390b726d43b0c5de32dba849a354ee77f33
+SHA256: c7b0ee85baaefd7c24ee7f5db3086f6a1dbbcba8e43c65e3be62e669fa734c90
+Section: Tweaks
+Description: TikTok اضافة مميزات مستخدمي تطبيق
+Author: Hao Nguyen
+Depiction: https://5boosh.com/depictions/?p=test86
+Installed-Size: 328
+Name: TikTok God
